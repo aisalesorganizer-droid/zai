@@ -1,0 +1,98 @@
+{
+  "jwt_token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUwY2ViM2E4LWE2MmMtNGY3OC1iYzE1LTYyM2VkYjNmMGEwZCIsImVtYWlsIjoiR3Vlc3QtMTc3MzU3NDczOTA5MkBndWVzdC5jb20ifQ.4QM-Z05SjikaFaUqBivNsE6XrTBIuA7RxHuVsJyNBcRhI5ps2TAdt7Igy6QSE2s98AiaFm5hyA2Y8RNUwdp8sw",
+  "user_id": "50ceb3a8-a62c-4f78-bc15-623edb3f0a0d",
+  "fe_version": "prod-fe-1.0.262",
+  "cookies": [
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1108033729.1773574741",
+      "domain": ".z.ai",
+      "path": "/",
+      "expires": 1781350741,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.682895608.1773574741",
+      "domain": ".z.ai",
+      "path": "/",
+      "expires": 1808309062.550874,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cdn_sec_tc",
+      "value": "012541a517737490618928326ed92e8f8ed51fb47bda70c77ac49041fa",
+      "domain": "chat.z.ai",
+      "path": "/",
+      "expires": 1773752661.85658,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "acw_tc",
+      "value": "0a0f6b9417737490618838967e482299477b62d61fb4a42f68f5098cf76bb7",
+      "domain": "chat.z.ai",
+      "path": "/",
+      "expires": 1773750861.856718,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "token",
+      "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUwY2ViM2E4LWE2MmMtNGY3OC1iYzE1LTYyM2VkYjNmMGEwZCIsImVtYWlsIjoiR3Vlc3QtMTc3MzU3NDczOTA5MkBndWVzdC5jb20ifQ.DWOQkRRg0zI0G82jbJRGY6jH-RTSrmV0Yz2Il9GDUlEVAMdrkAvVKISllcIWp6aRRj-6nzPkqOmqTReHJLzWQw",
+      "domain": "chat.z.ai",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_Z8QTHYBHP3",
+      "value": "GS2.1.s1773749062$o2$g1$t1773749075$j47$l0$h0",
+      "domain": ".z.ai",
+      "path": "/",
+      "expires": 1808309075.864847,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oui-session",
+      "value": "eyJfc3RhdGVfZ29vZ2xlX3g5S1RoT01GSU5KNjRWcGExT2hseU5jcDMxMGFWQiI6IHsiZGF0YSI6IHsicmVkaXJlY3RfdXJpIjogImh0dHBzOi8vY2hhdC56LmFpL29hdXRoL2dvb2dsZS9jYWxsYmFjayIsICJub25jZSI6ICJYeGhrTFhidllHWWE2ZTkzVzl6ZyIsICJ1cmwiOiAiaHR0cHM6Ly9hY2NvdW50cy5nb29nbGUuY29tL28vb2F1dGgyL3YyL2F1dGg/cmVzcG9uc2VfdHlwZT1jb2RlJmNsaWVudF9pZD04MDA0MjQzOTE5MjgtcXNxOTZ2YTN0cHVmcTRhamE4YTRhYmlvYm05MTBha3MuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20mcmVkaXJlY3RfdXJpPWh0dHBzJTNBJTJGJTJGY2hhdC56LmFpJTJGb2F1dGglMkZnb29nbGUlMkZjYWxsYmFjayZzY29wZT1vcGVuaWQrZW1haWwrcHJvZmlsZSZzdGF0ZT14OUtUaE9NRklOSjY0VnBhMU9obHlOY3AzMTBhVkImbm9uY2U9WHhoa0xYYnZZR1lhNmU5M1c5emcifSwgImV4cCI6IDE3NzM1Nzg2NTkuODEwNjYwMX19.ablDVQ.Lh8r5SMAnXMlKeQ65kGFXnEfWy0",
+      "domain": "chat.z.ai",
+      "path": "/",
+      "expires": 1774958677.247927,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssxmod_itna",
+      "value": "1-mqfx2DBDRifxyD4uQDwxQqYFeWF64QTeGHDy2pxQ5DODLxn_4GdGRKD9jt4ZD/DiuDD0CT2qqVKEi2tDlOG0YDfPgPDpDDcYiyeUM9qh5tlnBDqM/ZT7uhjrUU6i9nsfI6kM2uTHgYDHxi8DBKYQpeDxxGTDCeDQxirDD4DA0YDX1oDvxDkCDDdb4GaDW5v6e2Gb8D=RYWpDQaoxzxDnxdDAP23CDGCb4DrCDG1xFx52b8KDAvXH4i3a3eDB=yCDQmiDqguN5fjnzLUl/M3ZKB0//CT7UEvb4ibqFhQa9zvCljbVnm4ogp4i0YSqeiRqCGxe_Dxhitqx/2=KibiwHABYn_Hl_DVxtK2ZzvlAyYeAxQiTfTslh4S4xUx4z0DK2esiNDRiAgqUx8Y0DK0=/2xk0Da44eD",
+      "domain": ".z.ai",
+      "path": "/",
+      "expires": 1773750877,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssxmod_itna2",
+      "value": "1-mqfx2DBDRifxyD4uQDwxQqYFeWF64QTeGHDy2pxQ5DODLxn_4GdGRKD9jt4ZD/DiuDD0CT2qqVKEi2YDi=bBYAbPfD2GsDBuDyj42fPy=XYYCu09UeNjPmhrYIK=oNsxP/YVOglP3D",
+      "domain": ".z.ai",
+      "path": "/",
+      "expires": 1773750877,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "x_signature": "40e34110b25687f619ecb24ed956613bf0210c7d6c1865350f1620fe7f9e14e3"
+}

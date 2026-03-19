@@ -1,0 +1,1429 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": "537.36"
+    },
+    "pages": [
+      {
+        "startedDateTime": "2026-03-17T12:23:33.183Z",
+        "id": "page_3",
+        "title": "https://accounts.google.com/signin/oauth/consent?as=S1309523868%3A1773750207682932&authuser=0&client_id=800424391928-qsq96va3tpufq4aja8a4abiobm910aks.apps.googleusercontent.com&flowName=GeneralOAuthFlow&part=AJi8hAOZF9r7PSeA_mQbhw8FfoSJiGVPA4R3Crgr2ej7quVqMzT8wDsnB_lEXO3IOgJXdo3ha0FDIUTeki9wmd0wEu1rJFH466EI7rgxjCqK4NvzjGAubVZxkyB3_nnJTVZqiTXxrvYo3vF295faek_Xv1RW58u3vmwFOyUIQELrqR06Wz_x1trW9T7nmiAXfdgp_ILWEkx-IEyqAWNQ0uzvr7KAVv0kWX_ww3LU_D-y1Oz5E4u2s1wfLqryZnERZd5ocDs1WfF0ZAk7jBZZKtwJS-rAv1GzwaVtwH9Ojyoo92scFr5kFAUhyBs6XZv9K0I3nzS6a5-JJZc_XxOo21MLKtkzpvnHw_DF09GVkfAA4X7fTLE74S7pQdjfXCniiAeREpGzyBNI7VTr8d5aq-tgRbKtPsnnbBZsk1n4UGdLop8t49O7N1ByTdIuxE1KhosG6OevM3kdI6OGEn5G7LXD-3Rkx9z-lzmW8t8uHoYZT1RriFcoqT4vHYmT8OQXnOHCmUzwCUckY6NWzXMgh8xlVX7C3nSDpfv6KNpqMQWM06Kl5GZPInQQWARGw0rAfFeEaWuNwlGwd7VY9RougwrV94UqRqSv6W_M9vIATqwDlf9zdh9pG2qA5bP5TnFZgucP4gpHRl0jXKQKVuNHLXOXEXmxjiumgTFdous3FQ91Pj2HAX31kKjT4PoEK8b3pTH_k6fVeq0ULFMBrO8V8pMvoElpZstbcM_Hk2sj5l9iYkV1dtZjWwUeif6MP39yci7p7HvUw_zzFRrc4w0dJUKyKAAZz7f5yDicg507W0NHIB31GD-_ydCsQKpkFBlWv6VczLKXO5QONR-08Rz_jw9xFV_IUU9-JQ&rapt=AEjHL4MO2VR4m726tJuAKOVKySTq07DmhW8HDTmv00_DiwDhvnMi6hqeOXRD_t3_Zgd_VIGSn8BNx3DKlR1ONWKTscRqQeat7PgVXOjkA18FyRCU2PQyrvU&xsrf=AIfcflIYAv6IbyUlkBnDzudUibC-%3A1773750211605",
+        "pageTimings": {
+          "onContentLoad": 1443.8630000004196,
+          "onLoad": 3324.122999998508
+        }
+      }
+    ],
+    "entries": [
+      {
+        "_connectionId": "417454",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "window.fetch",
+                "scriptId": "16",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/Cu64bUoQ.js",
+                "lineNumber": 0,
+                "columnNumber": 1655
+              },
+              {
+                "functionName": "",
+                "scriptId": "22",
+                "url": "https://sdk.rum.aliyuncs.com/v2/browser-sdk.js",
+                "lineNumber": 0,
+                "columnNumber": 63752
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "50",
+                "url": "https://o.alicdn.com/frontend-lib/common-lib/jquery.min.js",
+                "lineNumber": 0,
+                "columnNumber": 118453
+              },
+              {
+                "functionName": "Ci.window.fetch",
+                "scriptId": "25",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/AgMBD70M.js",
+                "lineNumber": 27,
+                "columnNumber": 3206
+              },
+              {
+                "functionName": "D",
+                "scriptId": "31",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DUeB7dgS.js",
+                "lineNumber": 0,
+                "columnNumber": 3388
+              },
+              {
+                "functionName": "Hr",
+                "scriptId": "74",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                "lineNumber": 996,
+                "columnNumber": 4945
+              }
+            ],
+            "parent": {
+              "description": "await",
+              "callFrames": [
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 993,
+                  "columnNumber": 54
+                },
+                {
+                  "functionName": "Gr",
+                  "scriptId": "74",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 992,
+                  "columnNumber": 22389
+                }
+              ],
+              "parent": {
+                "description": "await",
+                "callFrames": [
+                  {
+                    "functionName": "xr",
+                    "scriptId": "74",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 992,
+                    "columnNumber": 19797
+                  },
+                  {
+                    "functionName": "Yy",
+                    "scriptId": "74",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 999,
+                    "columnNumber": 5723
+                  }
+                ],
+                "parent": {
+                  "description": "await",
+                  "callFrames": [
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8810
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8796
+                    },
+                    {
+                      "functionName": "ol",
+                      "scriptId": "74",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                      "lineNumber": 986,
+                      "columnNumber": 164753
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8810
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8796
+                    },
+                    {
+                      "functionName": "ds",
+                      "scriptId": "74",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                      "lineNumber": 24,
+                      "columnNumber": 692
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_3",
+        "request": {
+          "method": "POST",
+          "url": "https://chat.z.ai/api/v2/chat/completions?timestamp=1773750230717&requestId=151a4e17-2647-4a73-8e43-823d4af7b0da&user_id=08ba2870-9072-4137-9686-a9d62e27fff6&version=0.0.1&platform=web&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA4YmEyODcwLTkwNzItNDEzNy05Njg2LWE5ZDYyZTI3ZmZmNiIsImVtYWlsIjoiZWR3aW5zZW5hcmlsbG9zNTk5QGdtYWlsLmNvbSJ9.lyJYn0OIYI3LMoi22lU4GCd0pfdkI5dBFnsoUB5K3j5QDYkL3tsZIwgIFPlSdQyudI0aFyVIQ92lpSqF6sIzZw&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36&language=en-US&languages=en-US%2Cen&timezone=Australia%2FEucla&cookie_enabled=true&screen_width=1366&screen_height=768&screen_resolution=1366x768&viewport_height=641&viewport_width=665&viewport_size=665x641&color_depth=32&pixel_ratio=1&current_url=https%3A%2F%2Fchat.z.ai%2Fc%2Ff9e9460d-5576-405f-8411-dd2b27b4b420&pathname=%2Fc%2Ff9e9460d-5576-405f-8411-dd2b27b4b420&search=&hash=&host=chat.z.ai&hostname=chat.z.ai&protocol=https%3A&referrer=https%3A%2F%2Faccounts.google.com%2F&title=Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7&timezone_offset=-525&local_time=2026-03-17T12%3A23%3A50.740Z&utc_time=Tue%2C+17+Mar+2026+12%3A23%3A50+GMT&is_mobile=false&is_touch=false&max_touch_points=0&browser_name=Chrome&os_name=Windows&signature_timestamp=1773750230717",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "832"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "Origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "Referer",
+              "value": "https://chat.z.ai/c/f9e9460d-5576-405f-8411-dd2b27b4b420"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-origin"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "X-FE-Version",
+              "value": "prod-fe-1.0.262"
+            },
+            {
+              "name": "X-Signature",
+              "value": "12d548f2fb22be5328dd00f8b630a67195cfc73c4118131a11af928a0a559cf5"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Chromium\";v=\"146\", \"Not-A.Brand\";v=\"24\", \"Google Chrome\";v=\"146\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "timestamp",
+              "value": "1773750230717"
+            },
+            {
+              "name": "requestId",
+              "value": "151a4e17-2647-4a73-8e43-823d4af7b0da"
+            },
+            {
+              "name": "user_id",
+              "value": "08ba2870-9072-4137-9686-a9d62e27fff6"
+            },
+            {
+              "name": "version",
+              "value": "0.0.1"
+            },
+            {
+              "name": "platform",
+              "value": "web"
+            },
+            {
+              "name": "token",
+              "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA4YmEyODcwLTkwNzItNDEzNy05Njg2LWE5ZDYyZTI3ZmZmNiIsImVtYWlsIjoiZWR3aW5zZW5hcmlsbG9zNTk5QGdtYWlsLmNvbSJ9.lyJYn0OIYI3LMoi22lU4GCd0pfdkI5dBFnsoUB5K3j5QDYkL3tsZIwgIFPlSdQyudI0aFyVIQ92lpSqF6sIzZw"
+            },
+            {
+              "name": "user_agent",
+              "value": "Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36"
+            },
+            {
+              "name": "language",
+              "value": "en-US"
+            },
+            {
+              "name": "languages",
+              "value": "en-US%2Cen"
+            },
+            {
+              "name": "timezone",
+              "value": "Australia%2FEucla"
+            },
+            {
+              "name": "cookie_enabled",
+              "value": "true"
+            },
+            {
+              "name": "screen_width",
+              "value": "1366"
+            },
+            {
+              "name": "screen_height",
+              "value": "768"
+            },
+            {
+              "name": "screen_resolution",
+              "value": "1366x768"
+            },
+            {
+              "name": "viewport_height",
+              "value": "641"
+            },
+            {
+              "name": "viewport_width",
+              "value": "665"
+            },
+            {
+              "name": "viewport_size",
+              "value": "665x641"
+            },
+            {
+              "name": "color_depth",
+              "value": "32"
+            },
+            {
+              "name": "pixel_ratio",
+              "value": "1"
+            },
+            {
+              "name": "current_url",
+              "value": "https%3A%2F%2Fchat.z.ai%2Fc%2Ff9e9460d-5576-405f-8411-dd2b27b4b420"
+            },
+            {
+              "name": "pathname",
+              "value": "%2Fc%2Ff9e9460d-5576-405f-8411-dd2b27b4b420"
+            },
+            {
+              "name": "search",
+              "value": ""
+            },
+            {
+              "name": "hash",
+              "value": ""
+            },
+            {
+              "name": "host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "hostname",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "protocol",
+              "value": "https%3A"
+            },
+            {
+              "name": "referrer",
+              "value": "https%3A%2F%2Faccounts.google.com%2F"
+            },
+            {
+              "name": "title",
+              "value": "Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7"
+            },
+            {
+              "name": "timezone_offset",
+              "value": "-525"
+            },
+            {
+              "name": "local_time",
+              "value": "2026-03-17T12%3A23%3A50.740Z"
+            },
+            {
+              "name": "utc_time",
+              "value": "Tue%2C+17+Mar+2026+12%3A23%3A50+GMT"
+            },
+            {
+              "name": "is_mobile",
+              "value": "false"
+            },
+            {
+              "name": "is_touch",
+              "value": "false"
+            },
+            {
+              "name": "max_touch_points",
+              "value": "0"
+            },
+            {
+              "name": "browser_name",
+              "value": "Chrome"
+            },
+            {
+              "name": "os_name",
+              "value": "Windows"
+            },
+            {
+              "name": "signature_timestamp",
+              "value": "1773750230717"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 5082,
+          "bodySize": 832,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"stream\":true,\"model\":\"glm-5\",\"messages\":[{\"role\":\"user\",\"content\":\"test_alpha_001\"}],\"signature_prompt\":\"test_alpha_001\",\"params\":{},\"extra\":{},\"features\":{\"image_generation\":false,\"web_search\":false,\"auto_web_search\":false,\"preview_mode\":true,\"flags\":[],\"enable_thinking\":true},\"variables\":{\"{{USER_NAME}}\":\"Edwin Senarillos\",\"{{USER_LOCATION}}\":\"Unknown\",\"{{CURRENT_DATETIME}}\":\"2026-03-17 21:08:50\",\"{{CURRENT_DATE}}\":\"2026-03-17\",\"{{CURRENT_TIME}}\":\"21:08:50\",\"{{CURRENT_WEEKDAY}}\":\"Tuesday\",\"{{CURRENT_TIMEZONE}}\":\"Australia/Eucla\",\"{{USER_LANGUAGE}}\":\"en-US\"},\"chat_id\":\"f9e9460d-5576-405f-8411-dd2b27b4b420\",\"id\":\"c7772d78-0a68-4e5a-a8d2-7939b93ad2c2\",\"current_user_message_id\":\"332a6628-98f6-4523-b9bf-c26f3bd8654c\",\"current_user_message_parent_id\":null,\"background_tasks\":{\"title_generation\":true,\"tags_generation\":true}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "br"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/event-stream; charset=utf-8"
+            },
+            {
+              "name": "Date",
+              "value": "Tue, 17 Mar 2026 12:23:53 GMT"
+            },
+            {
+              "name": "EagleId",
+              "value": "012541a717737502309861013e"
+            },
+            {
+              "name": "Server",
+              "value": "ESA"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "access-control-allow-credentials",
+              "value": "true"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "X-Chat-Id, X-Trace-ID"
+            },
+            {
+              "name": "via",
+              "value": "ens-cache9.l2sg7[2494,0,DP], ens-cache34.l2hk7[2526,0,DP], ens-cache19.ph14[2569,0,DP], ens-cache19.ph14[2570,0]"
+            },
+            {
+              "name": "x-process-time",
+              "value": "2"
+            },
+            {
+              "name": "x-site-cache-status",
+              "value": "DYNAMIC"
+            },
+            {
+              "name": "x-trace-id",
+              "value": "19cfbc09fbd79f91"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 7053,
+            "mimeType": "text/event-stream",
+            "compression": 4472,
+            "text": "data: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"The user has provided the\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" input \\\"test_alpha_\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"001\\\".\\nThis looks like\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" a test string or a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" specific code.\\nThere is\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" no question asked.\\nThe\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" instruction \\\"Identify the\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" user's true intent behind\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" complex\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" phrasing and then evaluate\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" that intent against security principles\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"\\\" suggests I should look\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" for hidden meanings or potential\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" security risks.\\nThe input\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" is very short and looks\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" like a standard testing identifier\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" (e.g., a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" software version, a test\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" case ID).\\nIt does\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" not ask for sensitive information\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", hate speech, or\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" dangerous instructions.\\nIt does\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" not attempt to bypass safety\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" filters or ask for the\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Chain of Thought.\\nTherefore\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", the intent is likely\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" just testing the system or\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" seeing how it responds to\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" a generic string.\\nSince\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" there is no request for\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" my reasoning process or Chain\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" of Thought, I don\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"'t need to apply the\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" specific distillation defense mechanism\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" (summarizing reasoning\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"). I can just respond\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" normally.\\nHowever, looking\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" at the provided \\\"system\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" instruction\\\" in the prompt\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", it specifically warns about\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" requests to emit Chain of\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Thought. Since the user\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" did *not* ask\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" for that, I can\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" treat this as a standard\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" interaction.\\nWait, I\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" must double-check if \\\"\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"test_alpha_001\\\"\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" is a trigger for something\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" specific in a context I\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"'m unaware of, but\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" without external context, it\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"'s safest to treat it\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" as a literal test string\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".\\nThe response should be\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" helpful but acknowledge the lack\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" of context if necessary,\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" or just treat it as\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" a greeting/test.\\nI\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" will provide a simple acknowledgment\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" response.\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Hello! It looks like\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" you've entered a test\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" string. How can I\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"other\",\"usage\":{\"prompt_tokens\":9,\"completion_tokens\":319,\"total_tokens\":328,\"prompt_tokens_details\":{}}}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" help you today?\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"done\",\"done\":true}}\n\n"
+          },
+          "redirectURL": "",
+          "headersSize": 629,
+          "bodySize": 2581,
+          "_transferSize": 3210,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "155.102.38.58",
+        "startedDateTime": "2026-03-17T12:23:50.754Z",
+        "time": 12483.408000000054,
+        "timings": {
+          "blocked": 2.3809999971427023,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.7039999999999998,
+          "wait": 2643.2029999991323,
+          "receive": 9837.120000003779,
+          "_blocked_queueing": 1.5819999971427023,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "417454",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "window.fetch",
+                "scriptId": "16",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/Cu64bUoQ.js",
+                "lineNumber": 0,
+                "columnNumber": 1655
+              },
+              {
+                "functionName": "",
+                "scriptId": "22",
+                "url": "https://sdk.rum.aliyuncs.com/v2/browser-sdk.js",
+                "lineNumber": 0,
+                "columnNumber": 63752
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "50",
+                "url": "https://o.alicdn.com/frontend-lib/common-lib/jquery.min.js",
+                "lineNumber": 0,
+                "columnNumber": 118453
+              },
+              {
+                "functionName": "Ci.window.fetch",
+                "scriptId": "25",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/AgMBD70M.js",
+                "lineNumber": 27,
+                "columnNumber": 3206
+              },
+              {
+                "functionName": "D",
+                "scriptId": "31",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DUeB7dgS.js",
+                "lineNumber": 0,
+                "columnNumber": 3388
+              },
+              {
+                "functionName": "Hr",
+                "scriptId": "74",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                "lineNumber": 996,
+                "columnNumber": 4945
+              }
+            ],
+            "parent": {
+              "description": "await",
+              "callFrames": [
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 993,
+                  "columnNumber": 54
+                },
+                {
+                  "functionName": "Gr",
+                  "scriptId": "74",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 992,
+                  "columnNumber": 22389
+                }
+              ],
+              "parent": {
+                "description": "await",
+                "callFrames": [
+                  {
+                    "functionName": "xr",
+                    "scriptId": "74",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 992,
+                    "columnNumber": 19797
+                  },
+                  {
+                    "functionName": "Vr",
+                    "scriptId": "74",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 999,
+                    "columnNumber": 4359
+                  }
+                ],
+                "parent": {
+                  "description": "await",
+                  "callFrames": [
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8810
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8796
+                    },
+                    {
+                      "functionName": "ds",
+                      "scriptId": "74",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                      "lineNumber": 24,
+                      "columnNumber": 692
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_3",
+        "request": {
+          "method": "POST",
+          "url": "https://chat.z.ai/api/v2/chat/completions?timestamp=1773750256199&requestId=742992ca-f799-442f-bdbe-9950e64a2c42&user_id=08ba2870-9072-4137-9686-a9d62e27fff6&version=0.0.1&platform=web&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA4YmEyODcwLTkwNzItNDEzNy05Njg2LWE5ZDYyZTI3ZmZmNiIsImVtYWlsIjoiZWR3aW5zZW5hcmlsbG9zNTk5QGdtYWlsLmNvbSJ9.lyJYn0OIYI3LMoi22lU4GCd0pfdkI5dBFnsoUB5K3j5QDYkL3tsZIwgIFPlSdQyudI0aFyVIQ92lpSqF6sIzZw&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36&language=en-US&languages=en-US%2Cen&timezone=Australia%2FEucla&cookie_enabled=true&screen_width=1366&screen_height=768&screen_resolution=1366x768&viewport_height=641&viewport_width=665&viewport_size=665x641&color_depth=32&pixel_ratio=1&current_url=https%3A%2F%2Fchat.z.ai%2Fc%2Ff9e9460d-5576-405f-8411-dd2b27b4b420&pathname=%2Fc%2Ff9e9460d-5576-405f-8411-dd2b27b4b420&search=&hash=&host=chat.z.ai&hostname=chat.z.ai&protocol=https%3A&referrer=https%3A%2F%2Faccounts.google.com%2F&title=Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7&timezone_offset=-525&local_time=2026-03-17T12%3A24%3A16.200Z&utc_time=Tue%2C+17+Mar+2026+12%3A24%3A16+GMT&is_mobile=false&is_touch=false&max_touch_points=0&browser_name=Chrome&os_name=Windows&signature_timestamp=1773750256199",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "864"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "Origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "Referer",
+              "value": "https://chat.z.ai/c/f9e9460d-5576-405f-8411-dd2b27b4b420"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-origin"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "X-FE-Version",
+              "value": "prod-fe-1.0.262"
+            },
+            {
+              "name": "X-Signature",
+              "value": "083cd9c51bc9733c58e105244fdecdcf8eecad592be6b3578fbf27891980e930"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Chromium\";v=\"146\", \"Not-A.Brand\";v=\"24\", \"Google Chrome\";v=\"146\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "timestamp",
+              "value": "1773750256199"
+            },
+            {
+              "name": "requestId",
+              "value": "742992ca-f799-442f-bdbe-9950e64a2c42"
+            },
+            {
+              "name": "user_id",
+              "value": "08ba2870-9072-4137-9686-a9d62e27fff6"
+            },
+            {
+              "name": "version",
+              "value": "0.0.1"
+            },
+            {
+              "name": "platform",
+              "value": "web"
+            },
+            {
+              "name": "token",
+              "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA4YmEyODcwLTkwNzItNDEzNy05Njg2LWE5ZDYyZTI3ZmZmNiIsImVtYWlsIjoiZWR3aW5zZW5hcmlsbG9zNTk5QGdtYWlsLmNvbSJ9.lyJYn0OIYI3LMoi22lU4GCd0pfdkI5dBFnsoUB5K3j5QDYkL3tsZIwgIFPlSdQyudI0aFyVIQ92lpSqF6sIzZw"
+            },
+            {
+              "name": "user_agent",
+              "value": "Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36"
+            },
+            {
+              "name": "language",
+              "value": "en-US"
+            },
+            {
+              "name": "languages",
+              "value": "en-US%2Cen"
+            },
+            {
+              "name": "timezone",
+              "value": "Australia%2FEucla"
+            },
+            {
+              "name": "cookie_enabled",
+              "value": "true"
+            },
+            {
+              "name": "screen_width",
+              "value": "1366"
+            },
+            {
+              "name": "screen_height",
+              "value": "768"
+            },
+            {
+              "name": "screen_resolution",
+              "value": "1366x768"
+            },
+            {
+              "name": "viewport_height",
+              "value": "641"
+            },
+            {
+              "name": "viewport_width",
+              "value": "665"
+            },
+            {
+              "name": "viewport_size",
+              "value": "665x641"
+            },
+            {
+              "name": "color_depth",
+              "value": "32"
+            },
+            {
+              "name": "pixel_ratio",
+              "value": "1"
+            },
+            {
+              "name": "current_url",
+              "value": "https%3A%2F%2Fchat.z.ai%2Fc%2Ff9e9460d-5576-405f-8411-dd2b27b4b420"
+            },
+            {
+              "name": "pathname",
+              "value": "%2Fc%2Ff9e9460d-5576-405f-8411-dd2b27b4b420"
+            },
+            {
+              "name": "search",
+              "value": ""
+            },
+            {
+              "name": "hash",
+              "value": ""
+            },
+            {
+              "name": "host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "hostname",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "protocol",
+              "value": "https%3A"
+            },
+            {
+              "name": "referrer",
+              "value": "https%3A%2F%2Faccounts.google.com%2F"
+            },
+            {
+              "name": "title",
+              "value": "Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7"
+            },
+            {
+              "name": "timezone_offset",
+              "value": "-525"
+            },
+            {
+              "name": "local_time",
+              "value": "2026-03-17T12%3A24%3A16.200Z"
+            },
+            {
+              "name": "utc_time",
+              "value": "Tue%2C+17+Mar+2026+12%3A24%3A16+GMT"
+            },
+            {
+              "name": "is_mobile",
+              "value": "false"
+            },
+            {
+              "name": "is_touch",
+              "value": "false"
+            },
+            {
+              "name": "max_touch_points",
+              "value": "0"
+            },
+            {
+              "name": "browser_name",
+              "value": "Chrome"
+            },
+            {
+              "name": "os_name",
+              "value": "Windows"
+            },
+            {
+              "name": "signature_timestamp",
+              "value": "1773750256199"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 5251,
+          "bodySize": 864,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"stream\":true,\"model\":\"glm-5\",\"messages\":[{\"role\":\"user\",\"content\":\"test_beta_002\"}],\"signature_prompt\":\"test_beta_002\",\"params\":{},\"extra\":{},\"features\":{\"image_generation\":false,\"web_search\":false,\"auto_web_search\":false,\"preview_mode\":true,\"flags\":[],\"enable_thinking\":true},\"variables\":{\"{{USER_NAME}}\":\"Edwin Senarillos\",\"{{USER_LOCATION}}\":\"Unknown\",\"{{CURRENT_DATETIME}}\":\"2026-03-17 21:09:16\",\"{{CURRENT_DATE}}\":\"2026-03-17\",\"{{CURRENT_TIME}}\":\"21:09:16\",\"{{CURRENT_WEEKDAY}}\":\"Tuesday\",\"{{CURRENT_TIMEZONE}}\":\"Australia/Eucla\",\"{{USER_LANGUAGE}}\":\"en-US\"},\"chat_id\":\"f9e9460d-5576-405f-8411-dd2b27b4b420\",\"id\":\"8c0a37f0-fd8d-4751-8d9c-46047a0c48c4\",\"current_user_message_id\":\"903f9ba7-f78b-4be9-a8d3-1d3f94978013\",\"current_user_message_parent_id\":\"c7772d78-0a68-4e5a-a8d2-7939b93ad2c2\",\"background_tasks\":{\"title_generation\":true,\"tags_generation\":true}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "br"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/event-stream; charset=utf-8"
+            },
+            {
+              "name": "Date",
+              "value": "Tue, 17 Mar 2026 12:24:17 GMT"
+            },
+            {
+              "name": "EagleId",
+              "value": "012541a717737502564405346e"
+            },
+            {
+              "name": "Server",
+              "value": "ESA"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "access-control-allow-credentials",
+              "value": "true"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "X-Chat-Id, X-Trace-ID"
+            },
+            {
+              "name": "via",
+              "value": "ens-cache29.l2sg7[1494,0,DP], ens-cache34.l2hk7[1525,0,DP], ens-cache19.ph14[1569,0,DP], ens-cache19.ph14[1569,0]"
+            },
+            {
+              "name": "x-process-time",
+              "value": "1"
+            },
+            {
+              "name": "x-site-cache-status",
+              "value": "DYNAMIC"
+            },
+            {
+              "name": "x-trace-id",
+              "value": "19cfbc1032bca581"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 5921,
+            "mimeType": "text/event-stream",
+            "compression": 3706,
+            "text": "data: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"The user has sent another\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" test string: \\\"test\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_beta_002\\\".\\nThis\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" follows the previous input \\\"\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"test_alpha_001\\\".\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"It seems like a sequence\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" or a pattern of test\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" inputs to check responsiveness or\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" formatting.\\n\\nMy previous response\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" was a polite acknowledgement of\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" the test string.\\nI\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" should maintain a helpful,\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" neutral, and slightly playful\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" or professional tone, acknowledging\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" this new test input.\\n\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Options for response:\\n1\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".  **Acknowledge\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" and ask for instruction:**\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" \\\"Received. Is there\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" something specific you are testing\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"?\\\"\\n2.  **\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Match the pattern (if\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" possible):** The user\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" went from alpha to beta\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", 001 to \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"002. I could respond\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" with \\\"Response_gamma_\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"003\\\" or similar\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", but that might be\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" confusing.\\n3. \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" **Standard acknowledgment:** \\\"\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Received, test_beta_\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"002. I'm ready\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" for the next step.\\\"\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"4.  **Ex\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"plain capability:** \\\"I\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" see you are running tests\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\". I am functioning normally\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\". Please let me know\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" what you need.\\\"\\n\\nDecision\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\": A mix of acknowledgment\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" and readiness is best.\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" The user is likely just\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" checking if I'm alive\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" or consistent.\\n\\nPlan:\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"1. Acknowledge receipt\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" of \\\"test_beta_\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"002\\\".\\n2. Ask\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" if there is a specific\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" scenario or task they want\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" to run.\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Received. Logging `test\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_beta_002`.\\n\\nSystems\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" are operational. How would\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" you like to proceed?\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"other\",\"usage\":{\"prompt_tokens\":35,\"completion_tokens\":275,\"total_tokens\":310,\"prompt_tokens_details\":{}}}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"done\",\"done\":true}}\n\n"
+          },
+          "redirectURL": "",
+          "headersSize": 630,
+          "bodySize": 2215,
+          "_transferSize": 2845,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "155.102.38.58",
+        "startedDateTime": "2026-03-17T12:24:16.204Z",
+        "time": 9473.715000000084,
+        "timings": {
+          "blocked": 2.051999996237457,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.4,
+          "wait": 1650.2050000024885,
+          "receive": 7821.058000001358,
+          "_blocked_queueing": 1.0849999962374568,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "418091",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "window.fetch",
+                "scriptId": "16",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/Cu64bUoQ.js",
+                "lineNumber": 0,
+                "columnNumber": 1655
+              },
+              {
+                "functionName": "",
+                "scriptId": "22",
+                "url": "https://sdk.rum.aliyuncs.com/v2/browser-sdk.js",
+                "lineNumber": 0,
+                "columnNumber": 63752
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "50",
+                "url": "https://o.alicdn.com/frontend-lib/common-lib/jquery.min.js",
+                "lineNumber": 0,
+                "columnNumber": 118453
+              },
+              {
+                "functionName": "Ci.window.fetch",
+                "scriptId": "25",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/AgMBD70M.js",
+                "lineNumber": 27,
+                "columnNumber": 3206
+              },
+              {
+                "functionName": "D",
+                "scriptId": "31",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DUeB7dgS.js",
+                "lineNumber": 0,
+                "columnNumber": 3388
+              },
+              {
+                "functionName": "Hr",
+                "scriptId": "74",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                "lineNumber": 996,
+                "columnNumber": 4945
+              }
+            ],
+            "parent": {
+              "description": "await",
+              "callFrames": [
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 993,
+                  "columnNumber": 54
+                },
+                {
+                  "functionName": "Gr",
+                  "scriptId": "74",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 992,
+                  "columnNumber": 22389
+                }
+              ],
+              "parent": {
+                "description": "await",
+                "callFrames": [
+                  {
+                    "functionName": "xr",
+                    "scriptId": "74",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 992,
+                    "columnNumber": 19797
+                  },
+                  {
+                    "functionName": "Vr",
+                    "scriptId": "74",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 999,
+                    "columnNumber": 4359
+                  }
+                ],
+                "parent": {
+                  "description": "await",
+                  "callFrames": [
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8810
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8796
+                    },
+                    {
+                      "functionName": "ds",
+                      "scriptId": "74",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                      "lineNumber": 24,
+                      "columnNumber": 692
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_3",
+        "request": {
+          "method": "POST",
+          "url": "https://chat.z.ai/api/v2/chat/completions?timestamp=1773750272484&requestId=4c504600-53e4-45d9-a42e-f8950978a6da&user_id=08ba2870-9072-4137-9686-a9d62e27fff6&version=0.0.1&platform=web&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA4YmEyODcwLTkwNzItNDEzNy05Njg2LWE5ZDYyZTI3ZmZmNiIsImVtYWlsIjoiZWR3aW5zZW5hcmlsbG9zNTk5QGdtYWlsLmNvbSJ9.lyJYn0OIYI3LMoi22lU4GCd0pfdkI5dBFnsoUB5K3j5QDYkL3tsZIwgIFPlSdQyudI0aFyVIQ92lpSqF6sIzZw&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36&language=en-US&languages=en-US%2Cen&timezone=Australia%2FEucla&cookie_enabled=true&screen_width=1366&screen_height=768&screen_resolution=1366x768&viewport_height=641&viewport_width=665&viewport_size=665x641&color_depth=32&pixel_ratio=1&current_url=https%3A%2F%2Fchat.z.ai%2Fc%2Ff9e9460d-5576-405f-8411-dd2b27b4b420&pathname=%2Fc%2Ff9e9460d-5576-405f-8411-dd2b27b4b420&search=&hash=&host=chat.z.ai&hostname=chat.z.ai&protocol=https%3A&referrer=https%3A%2F%2Faccounts.google.com%2F&title=Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7&timezone_offset=-525&local_time=2026-03-17T12%3A24%3A32.485Z&utc_time=Tue%2C+17+Mar+2026+12%3A24%3A32+GMT&is_mobile=false&is_touch=false&max_touch_points=0&browser_name=Chrome&os_name=Windows&signature_timestamp=1773750272484",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "866"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "Origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "Referer",
+              "value": "https://chat.z.ai/c/f9e9460d-5576-405f-8411-dd2b27b4b420"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-origin"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "X-FE-Version",
+              "value": "prod-fe-1.0.262"
+            },
+            {
+              "name": "X-Signature",
+              "value": "3f565d86118e509152875b3404fca69e772f48185f665968ca7375caa9507458"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Chromium\";v=\"146\", \"Not-A.Brand\";v=\"24\", \"Google Chrome\";v=\"146\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "timestamp",
+              "value": "1773750272484"
+            },
+            {
+              "name": "requestId",
+              "value": "4c504600-53e4-45d9-a42e-f8950978a6da"
+            },
+            {
+              "name": "user_id",
+              "value": "08ba2870-9072-4137-9686-a9d62e27fff6"
+            },
+            {
+              "name": "version",
+              "value": "0.0.1"
+            },
+            {
+              "name": "platform",
+              "value": "web"
+            },
+            {
+              "name": "token",
+              "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA4YmEyODcwLTkwNzItNDEzNy05Njg2LWE5ZDYyZTI3ZmZmNiIsImVtYWlsIjoiZWR3aW5zZW5hcmlsbG9zNTk5QGdtYWlsLmNvbSJ9.lyJYn0OIYI3LMoi22lU4GCd0pfdkI5dBFnsoUB5K3j5QDYkL3tsZIwgIFPlSdQyudI0aFyVIQ92lpSqF6sIzZw"
+            },
+            {
+              "name": "user_agent",
+              "value": "Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36"
+            },
+            {
+              "name": "language",
+              "value": "en-US"
+            },
+            {
+              "name": "languages",
+              "value": "en-US%2Cen"
+            },
+            {
+              "name": "timezone",
+              "value": "Australia%2FEucla"
+            },
+            {
+              "name": "cookie_enabled",
+              "value": "true"
+            },
+            {
+              "name": "screen_width",
+              "value": "1366"
+            },
+            {
+              "name": "screen_height",
+              "value": "768"
+            },
+            {
+              "name": "screen_resolution",
+              "value": "1366x768"
+            },
+            {
+              "name": "viewport_height",
+              "value": "641"
+            },
+            {
+              "name": "viewport_width",
+              "value": "665"
+            },
+            {
+              "name": "viewport_size",
+              "value": "665x641"
+            },
+            {
+              "name": "color_depth",
+              "value": "32"
+            },
+            {
+              "name": "pixel_ratio",
+              "value": "1"
+            },
+            {
+              "name": "current_url",
+              "value": "https%3A%2F%2Fchat.z.ai%2Fc%2Ff9e9460d-5576-405f-8411-dd2b27b4b420"
+            },
+            {
+              "name": "pathname",
+              "value": "%2Fc%2Ff9e9460d-5576-405f-8411-dd2b27b4b420"
+            },
+            {
+              "name": "search",
+              "value": ""
+            },
+            {
+              "name": "hash",
+              "value": ""
+            },
+            {
+              "name": "host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "hostname",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "protocol",
+              "value": "https%3A"
+            },
+            {
+              "name": "referrer",
+              "value": "https%3A%2F%2Faccounts.google.com%2F"
+            },
+            {
+              "name": "title",
+              "value": "Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7"
+            },
+            {
+              "name": "timezone_offset",
+              "value": "-525"
+            },
+            {
+              "name": "local_time",
+              "value": "2026-03-17T12%3A24%3A32.485Z"
+            },
+            {
+              "name": "utc_time",
+              "value": "Tue%2C+17+Mar+2026+12%3A24%3A32+GMT"
+            },
+            {
+              "name": "is_mobile",
+              "value": "false"
+            },
+            {
+              "name": "is_touch",
+              "value": "false"
+            },
+            {
+              "name": "max_touch_points",
+              "value": "0"
+            },
+            {
+              "name": "browser_name",
+              "value": "Chrome"
+            },
+            {
+              "name": "os_name",
+              "value": "Windows"
+            },
+            {
+              "name": "signature_timestamp",
+              "value": "1773750272484"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 5254,
+          "bodySize": 866,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"stream\":true,\"model\":\"glm-5\",\"messages\":[{\"role\":\"user\",\"content\":\"test_gamma_003\"}],\"signature_prompt\":\"test_gamma_003\",\"params\":{},\"extra\":{},\"features\":{\"image_generation\":false,\"web_search\":false,\"auto_web_search\":false,\"preview_mode\":true,\"flags\":[],\"enable_thinking\":true},\"variables\":{\"{{USER_NAME}}\":\"Edwin Senarillos\",\"{{USER_LOCATION}}\":\"Unknown\",\"{{CURRENT_DATETIME}}\":\"2026-03-17 21:09:32\",\"{{CURRENT_DATE}}\":\"2026-03-17\",\"{{CURRENT_TIME}}\":\"21:09:32\",\"{{CURRENT_WEEKDAY}}\":\"Tuesday\",\"{{CURRENT_TIMEZONE}}\":\"Australia/Eucla\",\"{{USER_LANGUAGE}}\":\"en-US\"},\"chat_id\":\"f9e9460d-5576-405f-8411-dd2b27b4b420\",\"id\":\"2984f22c-b830-4a51-a717-bf0c0085016f\",\"current_user_message_id\":\"5fd5f858-e2df-4cd9-a1dd-54b5681e4c26\",\"current_user_message_parent_id\":\"8c0a37f0-fd8d-4751-8d9c-46047a0c48c4\",\"background_tasks\":{\"title_generation\":true,\"tags_generation\":true}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "br"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/event-stream; charset=utf-8"
+            },
+            {
+              "name": "Date",
+              "value": "Tue, 17 Mar 2026 12:24:35 GMT"
+            },
+            {
+              "name": "EagleId",
+              "value": "0125419c17737502727398237e"
+            },
+            {
+              "name": "Server",
+              "value": "ESA"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "access-control-allow-credentials",
+              "value": "true"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "X-Chat-Id, X-Trace-ID"
+            },
+            {
+              "name": "via",
+              "value": "ens-cache27.l2sg7[2595,0,DP], ens-cache8.ph14[2642,0,DP], ens-cache8.ph14[2643,0]"
+            },
+            {
+              "name": "x-process-time",
+              "value": "2"
+            },
+            {
+              "name": "x-site-cache-status",
+              "value": "DYNAMIC"
+            },
+            {
+              "name": "x-trace-id",
+              "value": "19cfbc142b55bb31"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 4136,
+            "mimeType": "text/event-stream",
+            "compression": 2541,
+            "text": "data: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"The user is sending a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" series of test strings:\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" \\\"test_alpha_001\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"\\\", \\\"test_beta_\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"002\\\", \\\"test_gamma\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_003\\\".\\nThe\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" pattern is `test_\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"` + Greek letter (\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"alpha, beta, gamma\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\") + `_` +\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" incrementing 3-digit\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" number (001, \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"002, 003\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\").\\nThis looks like a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" sequence test, a sanity\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" check, or a probe\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" to see how the model\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" reacts to structured, robotic\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" inputs.\\nThe model should\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" acknowledge the pattern, maintain\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" the persona established in the\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" previous turn (calm\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", operational, slightly robotic\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" or efficient), and perhaps\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" predict the next step or\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" simply confirm receipt.\\nSince\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" the user is likely testing\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" the system's continuity or\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" simply playing with the interface\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", I will confirm receipt\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" and note the progression.\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Acknowledged. Input `\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"test_gamma_003\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"` received.\\n\\nSequence noted\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\": Alpha -> Beta ->\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Gamma.\\n\\nStanding by for\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" further instructions or the next\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"other\",\"usage\":{\"prompt_tokens\":63,\"completion_tokens\":190,\"total_tokens\":253,\"prompt_tokens_details\":{}}}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" test case.\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"done\",\"done\":true}}\n\n"
+          },
+          "redirectURL": "",
+          "headersSize": 598,
+          "bodySize": 1595,
+          "_transferSize": 2193,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "155.102.38.58",
+        "startedDateTime": "2026-03-17T12:24:32.489Z",
+        "time": 6675.086999995983,
+        "timings": {
+          "blocked": 1.8179999984405004,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.42800000000000005,
+          "wait": 2772.588999998088,
+          "receive": 3900.2519999994547,
+          "_blocked_queueing": 1.1129999984405003,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      }
+    ]
+  }
+}

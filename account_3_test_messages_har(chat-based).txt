@@ -1,0 +1,1429 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": "537.36"
+    },
+    "pages": [
+      {
+        "startedDateTime": "2026-03-17T12:31:58.416Z",
+        "id": "page_2",
+        "title": "https://accounts.google.com/signin/oauth/consent?as=S2098221681%3A1773750706322775&authuser=0&client_id=800424391928-qsq96va3tpufq4aja8a4abiobm910aks.apps.googleusercontent.com&flowName=GeneralOAuthFlow&part=AJi8hAND4pi-hgecejF5twUeTily40eFokgNUbb6ThKftRTQ84cIxxyXxASu3aBo7NVf-zOU-ECFH5fAiRBVrNULN_Q6SUL-b-caOAw2yloOfKAF_S3r1J7TTKFMnbkWPa1Ww85sAo_Frrq8XDlq2zbGQ5T_iz1HXRctxH1v7XDlE5zQmXXTMfbvIwFJ7aPYlybrE8yfjGhXDJyCYh6KeXhztFFAfYRpXRA9M1CrQ6m-IL_tPETcZ84KwV9sen5bT1fnqyvQxPQeWMP9wnatpNR5UO6E9hfwXy1f0f5T0szRjD85P9eML-fFdcjvAtGb9mhGS8d5iU4RyGPtaSU61lffKzsodiVf-fZU150vrd8m4ZKHzT7L9LUeLqJniSNhKyd0AUYqc7t6R-0ghZIQoS133s78655foDiMqGJknRgzU7NRqKpJf6w9ZJvr0a95OaSaPtZXarqd5MtJ8zBwV8Me5daLy6ncsV1zPUgxaBTg_4cQ30RYEZusPttZ0mDPeclg9raPi2-6VQkaGvleQEaw392OqyTLYZpNvNZD5AkN56P9hfHqLs2SCx1nV9VCB8b040zGFey_L_yKfmdyC8AqjZtxp_YV6ybO9_XX3pxJ01cxDLTPnjvQQeqgsf_86v_ldgJrMTrD-qcNoI0HnwyvwyqtoizY9NQBV8HiRXo4wz1uNxEdCD87aRu6cXM6vmxrRcEChBCrWlkOMuIXp-0vM9VelXrLRyA54pThC8qg1YhcZl-wc7axOs3ZofN5LrrjMYvQx5fsOzR5iYFKyRgJsBf1eHBD0JfPd1jvMvVo45iUuiVvCq9IkN9G0xrMnshWWwhpBwtOLk72lYSJR1fb6mPf16i31g&rapt=AEjHL4Orj5xBPcCUpgX4PfunIDfZIMFeJub8JiureufRPqlhVtGHHJMs6AaNsK9Bj2xj5lI6rxwULFW1buz6eMbdn_TOxVr3IO8jEDndGyXNj6Xz334ar14&xsrf=AIfcflL37TmHaNU1HxLeCYQYK0nk%3A1773750713292",
+        "pageTimings": {
+          "onContentLoad": 1524.2089999956079,
+          "onLoad": 3573.819999997795
+        }
+      }
+    ],
+    "entries": [
+      {
+        "_connectionId": "409572",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "window.fetch",
+                "scriptId": "16",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/Cu64bUoQ.js",
+                "lineNumber": 0,
+                "columnNumber": 1655
+              },
+              {
+                "functionName": "",
+                "scriptId": "23",
+                "url": "https://sdk.rum.aliyuncs.com/v2/browser-sdk.js",
+                "lineNumber": 0,
+                "columnNumber": 63752
+              },
+              {
+                "functionName": "Ci.window.fetch",
+                "scriptId": "26",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/AgMBD70M.js",
+                "lineNumber": 27,
+                "columnNumber": 3206
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "29",
+                "url": "https://o.alicdn.com/frontend-lib/common-lib/jquery.min.js",
+                "lineNumber": 0,
+                "columnNumber": 118453
+              },
+              {
+                "functionName": "D",
+                "scriptId": "33",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DUeB7dgS.js",
+                "lineNumber": 0,
+                "columnNumber": 3388
+              },
+              {
+                "functionName": "Hr",
+                "scriptId": "72",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                "lineNumber": 996,
+                "columnNumber": 4945
+              }
+            ],
+            "parent": {
+              "description": "await",
+              "callFrames": [
+                {
+                  "functionName": "",
+                  "scriptId": "72",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 993,
+                  "columnNumber": 54
+                },
+                {
+                  "functionName": "Gr",
+                  "scriptId": "72",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 992,
+                  "columnNumber": 22389
+                }
+              ],
+              "parent": {
+                "description": "await",
+                "callFrames": [
+                  {
+                    "functionName": "xr",
+                    "scriptId": "72",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 992,
+                    "columnNumber": 19797
+                  },
+                  {
+                    "functionName": "Yy",
+                    "scriptId": "72",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 999,
+                    "columnNumber": 5723
+                  }
+                ],
+                "parent": {
+                  "description": "await",
+                  "callFrames": [
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8810
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8796
+                    },
+                    {
+                      "functionName": "Rn",
+                      "scriptId": "72",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                      "lineNumber": 986,
+                      "columnNumber": 163561
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8810
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8796
+                    },
+                    {
+                      "functionName": "ds",
+                      "scriptId": "72",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                      "lineNumber": 24,
+                      "columnNumber": 692
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_2",
+        "request": {
+          "method": "POST",
+          "url": "https://chat.z.ai/api/v2/chat/completions?timestamp=1773750737541&requestId=60b7b84e-1a4c-4847-b889-edcfb60957bb&user_id=061cba81-b0b7-4f0a-b97e-ccc33febb0fa&version=0.0.1&platform=web&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA2MWNiYTgxLWIwYjctNGYwYS1iOTdlLWNjYzMzZmViYjBmYSIsImVtYWlsIjoidHJpeGN5c2VuYXJpbGxvc0BnbWFpbC5jb20ifQ.gFGPeLf3PtjVpazHbsJbHkMhEkJBpOiQZQyfLtiFfAOe-9nSSTD0wdO350WKiWSqASrtJnoYnqVQjZ-x8R2_pQ&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36&language=en-US&languages=en-US%2Cen&timezone=Australia%2FEucla&cookie_enabled=true&screen_width=1366&screen_height=768&screen_resolution=1366x768&viewport_height=641&viewport_width=811&viewport_size=811x641&color_depth=32&pixel_ratio=1&current_url=https%3A%2F%2Fchat.z.ai%2Fc%2F5d896a7b-d04d-463d-bc70-cb50e307da55&pathname=%2Fc%2F5d896a7b-d04d-463d-bc70-cb50e307da55&search=&hash=&host=chat.z.ai&hostname=chat.z.ai&protocol=https%3A&referrer=https%3A%2F%2Faccounts.google.com%2F&title=Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7&timezone_offset=-525&local_time=2026-03-17T12%3A32%3A17.561Z&utc_time=Tue%2C+17+Mar+2026+12%3A32%3A17+GMT&is_mobile=false&is_touch=false&max_touch_points=0&browser_name=Chrome&os_name=Windows&signature_timestamp=1773750737541",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "833"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "Origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "Referer",
+              "value": "https://chat.z.ai/c/5d896a7b-d04d-463d-bc70-cb50e307da55"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-origin"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "X-FE-Version",
+              "value": "prod-fe-1.0.262"
+            },
+            {
+              "name": "X-Signature",
+              "value": "d06d1710c2f3f0e812f56af25f1e3a5031625517de10ce8e23e7322ac911e04e"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Chromium\";v=\"146\", \"Not-A.Brand\";v=\"24\", \"Google Chrome\";v=\"146\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "timestamp",
+              "value": "1773750737541"
+            },
+            {
+              "name": "requestId",
+              "value": "60b7b84e-1a4c-4847-b889-edcfb60957bb"
+            },
+            {
+              "name": "user_id",
+              "value": "061cba81-b0b7-4f0a-b97e-ccc33febb0fa"
+            },
+            {
+              "name": "version",
+              "value": "0.0.1"
+            },
+            {
+              "name": "platform",
+              "value": "web"
+            },
+            {
+              "name": "token",
+              "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA2MWNiYTgxLWIwYjctNGYwYS1iOTdlLWNjYzMzZmViYjBmYSIsImVtYWlsIjoidHJpeGN5c2VuYXJpbGxvc0BnbWFpbC5jb20ifQ.gFGPeLf3PtjVpazHbsJbHkMhEkJBpOiQZQyfLtiFfAOe-9nSSTD0wdO350WKiWSqASrtJnoYnqVQjZ-x8R2_pQ"
+            },
+            {
+              "name": "user_agent",
+              "value": "Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36"
+            },
+            {
+              "name": "language",
+              "value": "en-US"
+            },
+            {
+              "name": "languages",
+              "value": "en-US%2Cen"
+            },
+            {
+              "name": "timezone",
+              "value": "Australia%2FEucla"
+            },
+            {
+              "name": "cookie_enabled",
+              "value": "true"
+            },
+            {
+              "name": "screen_width",
+              "value": "1366"
+            },
+            {
+              "name": "screen_height",
+              "value": "768"
+            },
+            {
+              "name": "screen_resolution",
+              "value": "1366x768"
+            },
+            {
+              "name": "viewport_height",
+              "value": "641"
+            },
+            {
+              "name": "viewport_width",
+              "value": "811"
+            },
+            {
+              "name": "viewport_size",
+              "value": "811x641"
+            },
+            {
+              "name": "color_depth",
+              "value": "32"
+            },
+            {
+              "name": "pixel_ratio",
+              "value": "1"
+            },
+            {
+              "name": "current_url",
+              "value": "https%3A%2F%2Fchat.z.ai%2Fc%2F5d896a7b-d04d-463d-bc70-cb50e307da55"
+            },
+            {
+              "name": "pathname",
+              "value": "%2Fc%2F5d896a7b-d04d-463d-bc70-cb50e307da55"
+            },
+            {
+              "name": "search",
+              "value": ""
+            },
+            {
+              "name": "hash",
+              "value": ""
+            },
+            {
+              "name": "host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "hostname",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "protocol",
+              "value": "https%3A"
+            },
+            {
+              "name": "referrer",
+              "value": "https%3A%2F%2Faccounts.google.com%2F"
+            },
+            {
+              "name": "title",
+              "value": "Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7"
+            },
+            {
+              "name": "timezone_offset",
+              "value": "-525"
+            },
+            {
+              "name": "local_time",
+              "value": "2026-03-17T12%3A32%3A17.561Z"
+            },
+            {
+              "name": "utc_time",
+              "value": "Tue%2C+17+Mar+2026+12%3A32%3A17+GMT"
+            },
+            {
+              "name": "is_mobile",
+              "value": "false"
+            },
+            {
+              "name": "is_touch",
+              "value": "false"
+            },
+            {
+              "name": "max_touch_points",
+              "value": "0"
+            },
+            {
+              "name": "browser_name",
+              "value": "Chrome"
+            },
+            {
+              "name": "os_name",
+              "value": "Windows"
+            },
+            {
+              "name": "signature_timestamp",
+              "value": "1773750737541"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 5287,
+          "bodySize": 833,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"stream\":true,\"model\":\"glm-5\",\"messages\":[{\"role\":\"user\",\"content\":\"test_alpha_001\"}],\"signature_prompt\":\"test_alpha_001\",\"params\":{},\"extra\":{},\"features\":{\"image_generation\":false,\"web_search\":false,\"auto_web_search\":false,\"preview_mode\":true,\"flags\":[],\"enable_thinking\":true},\"variables\":{\"{{USER_NAME}}\":\"Trixcy Senarillos\",\"{{USER_LOCATION}}\":\"Unknown\",\"{{CURRENT_DATETIME}}\":\"2026-03-17 21:17:17\",\"{{CURRENT_DATE}}\":\"2026-03-17\",\"{{CURRENT_TIME}}\":\"21:17:17\",\"{{CURRENT_WEEKDAY}}\":\"Tuesday\",\"{{CURRENT_TIMEZONE}}\":\"Australia/Eucla\",\"{{USER_LANGUAGE}}\":\"en-US\"},\"chat_id\":\"5d896a7b-d04d-463d-bc70-cb50e307da55\",\"id\":\"4c0f5dce-1de8-4953-b807-75e98544147c\",\"current_user_message_id\":\"846e8688-3a2e-488a-90cd-915f62d10d85\",\"current_user_message_parent_id\":null,\"background_tasks\":{\"title_generation\":true,\"tags_generation\":true}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "br"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/event-stream; charset=utf-8"
+            },
+            {
+              "name": "Date",
+              "value": "Tue, 17 Mar 2026 12:32:32 GMT"
+            },
+            {
+              "name": "EagleId",
+              "value": "012541a217737507378352167e"
+            },
+            {
+              "name": "Server",
+              "value": "ESA"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "access-control-allow-credentials",
+              "value": "true"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "X-Chat-Id, X-Trace-ID"
+            },
+            {
+              "name": "via",
+              "value": "ens-cache48.l2sg7[14273,0,DP], ens-cache36.l2hk7[14305,0,DP], ens-cache14.ph14[14366,0,DP], ens-cache14.ph14[14366,0]"
+            },
+            {
+              "name": "x-process-time",
+              "value": "15"
+            },
+            {
+              "name": "x-site-cache-status",
+              "value": "DYNAMIC"
+            },
+            {
+              "name": "x-trace-id",
+              "value": "19cfbc85ba7edea5"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 8267,
+            "mimeType": "text/event-stream",
+            "compression": 5288,
+            "text": "data: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"The user's input is\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" \\\"test_alpha_001\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"\\\". This looks like a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" test string, possibly an\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" identifier, a code name\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", or just a random\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" sequence of characters. It\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" doesn't ask a question\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" or request a specific task\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".\\n\\nMy goal is to\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" acknowledge the input in a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" helpful or neutral way.\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Since it looks like a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" test, I should probably\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" treat it as such.\\n\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Options for response:\\n1\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".  **Echo/\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Confirmation:** \\\"Received:\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" test_alpha_001.\\\"\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" (Functional, slightly robotic\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\").\\n2.  **\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Inquiry:** \\\"How\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" can I help you with\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" 'test_alpha_001\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"'?\\\" (Engaging\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", assumes context needed).\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"3.  **Play\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"ful/Creative:** Interpret\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" it as a project name\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" or code. \\\"System\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" ready. Test Alpha \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"001 initiated. What are\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" the parameters?\\\" (Fun\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", but maybe too presum\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"ptuous).\\n4.\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"  **Standard Placeholder:**\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" \\\"I received your message\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\". How can I assist\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" you today?\\\" (Safe\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", generic).\\n\\nGiven the\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" lack of context, a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" mix of confirmation and an\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" offer to help is usually\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" best for these ambiguous inputs\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\". I will acknowledge the\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" text and ask for further\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" instructions.\\n\\nLet's try\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" a response that acknowledges the\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" specific input.\\n\\n*Draft\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\":*\\n\\\"Received '\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"test_alpha_001'.\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" How can I help you\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" with this?\\\"\\n\\n*Ref\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"inement:*\\nIt looks\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" like a test string.\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" I'll respond by confirming\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" receipt and asking what the\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" user wants to do next\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".\\n\\nFinal plan: State\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" that I received the input\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" and ask how to proceed\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"I received your input:\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" **test_alpha_001\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"**.\\n\\nHow would you\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" like me to proceed?\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" I can treat this as\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\":\\n1.  **\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"A test case:** I\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" can simulate a response for\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" a software test.\\n2\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".  **A project\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" code:** I can help\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" brainstorm details for a project\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" with this codename.\\n\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"3.  **A\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" placeholder:** Just acknowledging receipt\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".\\n\\nLet me know what\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"other\",\"usage\":{\"prompt_tokens\":9,\"completion_tokens\":390,\"total_tokens\":399,\"prompt_tokens_details\":{}}}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" you need\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"done\",\"done\":true}}\n\n"
+          },
+          "redirectURL": "",
+          "headersSize": 635,
+          "bodySize": 2979,
+          "_transferSize": 3614,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "155.102.38.27",
+        "startedDateTime": "2026-03-17T12:32:17.600Z",
+        "time": 23461.340000001655,
+        "timings": {
+          "blocked": 1.656000003331341,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.377,
+          "wait": 14556.21799999887,
+          "receive": 8903.088999999454,
+          "_blocked_queueing": 0.9770000033313408,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "426619",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "window.fetch",
+                "scriptId": "16",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/Cu64bUoQ.js",
+                "lineNumber": 0,
+                "columnNumber": 1655
+              },
+              {
+                "functionName": "",
+                "scriptId": "23",
+                "url": "https://sdk.rum.aliyuncs.com/v2/browser-sdk.js",
+                "lineNumber": 0,
+                "columnNumber": 63752
+              },
+              {
+                "functionName": "Ci.window.fetch",
+                "scriptId": "26",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/AgMBD70M.js",
+                "lineNumber": 27,
+                "columnNumber": 3206
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "29",
+                "url": "https://o.alicdn.com/frontend-lib/common-lib/jquery.min.js",
+                "lineNumber": 0,
+                "columnNumber": 118453
+              },
+              {
+                "functionName": "D",
+                "scriptId": "33",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DUeB7dgS.js",
+                "lineNumber": 0,
+                "columnNumber": 3388
+              },
+              {
+                "functionName": "Hr",
+                "scriptId": "72",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                "lineNumber": 996,
+                "columnNumber": 4945
+              }
+            ],
+            "parent": {
+              "description": "await",
+              "callFrames": [
+                {
+                  "functionName": "",
+                  "scriptId": "72",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 993,
+                  "columnNumber": 54
+                },
+                {
+                  "functionName": "Gr",
+                  "scriptId": "72",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 992,
+                  "columnNumber": 22389
+                }
+              ],
+              "parent": {
+                "description": "await",
+                "callFrames": [
+                  {
+                    "functionName": "xr",
+                    "scriptId": "72",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 992,
+                    "columnNumber": 19797
+                  },
+                  {
+                    "functionName": "Vr",
+                    "scriptId": "72",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 999,
+                    "columnNumber": 4359
+                  }
+                ],
+                "parent": {
+                  "description": "await",
+                  "callFrames": [
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8810
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8796
+                    },
+                    {
+                      "functionName": "ds",
+                      "scriptId": "72",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                      "lineNumber": 24,
+                      "columnNumber": 692
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_2",
+        "request": {
+          "method": "POST",
+          "url": "https://chat.z.ai/api/v2/chat/completions?timestamp=1773750768437&requestId=4b90b7a9-7b95-44c8-8ce7-9856734ba98e&user_id=061cba81-b0b7-4f0a-b97e-ccc33febb0fa&version=0.0.1&platform=web&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA2MWNiYTgxLWIwYjctNGYwYS1iOTdlLWNjYzMzZmViYjBmYSIsImVtYWlsIjoidHJpeGN5c2VuYXJpbGxvc0BnbWFpbC5jb20ifQ.gFGPeLf3PtjVpazHbsJbHkMhEkJBpOiQZQyfLtiFfAOe-9nSSTD0wdO350WKiWSqASrtJnoYnqVQjZ-x8R2_pQ&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36&language=en-US&languages=en-US%2Cen&timezone=Australia%2FEucla&cookie_enabled=true&screen_width=1366&screen_height=768&screen_resolution=1366x768&viewport_height=641&viewport_width=811&viewport_size=811x641&color_depth=32&pixel_ratio=1&current_url=https%3A%2F%2Fchat.z.ai%2Fc%2F5d896a7b-d04d-463d-bc70-cb50e307da55&pathname=%2Fc%2F5d896a7b-d04d-463d-bc70-cb50e307da55&search=&hash=&host=chat.z.ai&hostname=chat.z.ai&protocol=https%3A&referrer=https%3A%2F%2Faccounts.google.com%2F&title=Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7&timezone_offset=-525&local_time=2026-03-17T12%3A32%3A48.438Z&utc_time=Tue%2C+17+Mar+2026+12%3A32%3A48+GMT&is_mobile=false&is_touch=false&max_touch_points=0&browser_name=Chrome&os_name=Windows&signature_timestamp=1773750768437",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "865"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "Origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "Referer",
+              "value": "https://chat.z.ai/c/5d896a7b-d04d-463d-bc70-cb50e307da55"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-origin"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "X-FE-Version",
+              "value": "prod-fe-1.0.262"
+            },
+            {
+              "name": "X-Signature",
+              "value": "8720afacb53cb27885d2fd2c5dc58d22f3ba1c09ffad2b3d30982468a71de8b7"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Chromium\";v=\"146\", \"Not-A.Brand\";v=\"24\", \"Google Chrome\";v=\"146\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "timestamp",
+              "value": "1773750768437"
+            },
+            {
+              "name": "requestId",
+              "value": "4b90b7a9-7b95-44c8-8ce7-9856734ba98e"
+            },
+            {
+              "name": "user_id",
+              "value": "061cba81-b0b7-4f0a-b97e-ccc33febb0fa"
+            },
+            {
+              "name": "version",
+              "value": "0.0.1"
+            },
+            {
+              "name": "platform",
+              "value": "web"
+            },
+            {
+              "name": "token",
+              "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA2MWNiYTgxLWIwYjctNGYwYS1iOTdlLWNjYzMzZmViYjBmYSIsImVtYWlsIjoidHJpeGN5c2VuYXJpbGxvc0BnbWFpbC5jb20ifQ.gFGPeLf3PtjVpazHbsJbHkMhEkJBpOiQZQyfLtiFfAOe-9nSSTD0wdO350WKiWSqASrtJnoYnqVQjZ-x8R2_pQ"
+            },
+            {
+              "name": "user_agent",
+              "value": "Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36"
+            },
+            {
+              "name": "language",
+              "value": "en-US"
+            },
+            {
+              "name": "languages",
+              "value": "en-US%2Cen"
+            },
+            {
+              "name": "timezone",
+              "value": "Australia%2FEucla"
+            },
+            {
+              "name": "cookie_enabled",
+              "value": "true"
+            },
+            {
+              "name": "screen_width",
+              "value": "1366"
+            },
+            {
+              "name": "screen_height",
+              "value": "768"
+            },
+            {
+              "name": "screen_resolution",
+              "value": "1366x768"
+            },
+            {
+              "name": "viewport_height",
+              "value": "641"
+            },
+            {
+              "name": "viewport_width",
+              "value": "811"
+            },
+            {
+              "name": "viewport_size",
+              "value": "811x641"
+            },
+            {
+              "name": "color_depth",
+              "value": "32"
+            },
+            {
+              "name": "pixel_ratio",
+              "value": "1"
+            },
+            {
+              "name": "current_url",
+              "value": "https%3A%2F%2Fchat.z.ai%2Fc%2F5d896a7b-d04d-463d-bc70-cb50e307da55"
+            },
+            {
+              "name": "pathname",
+              "value": "%2Fc%2F5d896a7b-d04d-463d-bc70-cb50e307da55"
+            },
+            {
+              "name": "search",
+              "value": ""
+            },
+            {
+              "name": "hash",
+              "value": ""
+            },
+            {
+              "name": "host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "hostname",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "protocol",
+              "value": "https%3A"
+            },
+            {
+              "name": "referrer",
+              "value": "https%3A%2F%2Faccounts.google.com%2F"
+            },
+            {
+              "name": "title",
+              "value": "Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7"
+            },
+            {
+              "name": "timezone_offset",
+              "value": "-525"
+            },
+            {
+              "name": "local_time",
+              "value": "2026-03-17T12%3A32%3A48.438Z"
+            },
+            {
+              "name": "utc_time",
+              "value": "Tue%2C+17+Mar+2026+12%3A32%3A48+GMT"
+            },
+            {
+              "name": "is_mobile",
+              "value": "false"
+            },
+            {
+              "name": "is_touch",
+              "value": "false"
+            },
+            {
+              "name": "max_touch_points",
+              "value": "0"
+            },
+            {
+              "name": "browser_name",
+              "value": "Chrome"
+            },
+            {
+              "name": "os_name",
+              "value": "Windows"
+            },
+            {
+              "name": "signature_timestamp",
+              "value": "1773750768437"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 5261,
+          "bodySize": 865,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"stream\":true,\"model\":\"glm-5\",\"messages\":[{\"role\":\"user\",\"content\":\"test_beta_002\"}],\"signature_prompt\":\"test_beta_002\",\"params\":{},\"extra\":{},\"features\":{\"image_generation\":false,\"web_search\":false,\"auto_web_search\":false,\"preview_mode\":true,\"flags\":[],\"enable_thinking\":true},\"variables\":{\"{{USER_NAME}}\":\"Trixcy Senarillos\",\"{{USER_LOCATION}}\":\"Unknown\",\"{{CURRENT_DATETIME}}\":\"2026-03-17 21:17:48\",\"{{CURRENT_DATE}}\":\"2026-03-17\",\"{{CURRENT_TIME}}\":\"21:17:48\",\"{{CURRENT_WEEKDAY}}\":\"Tuesday\",\"{{CURRENT_TIMEZONE}}\":\"Australia/Eucla\",\"{{USER_LANGUAGE}}\":\"en-US\"},\"chat_id\":\"5d896a7b-d04d-463d-bc70-cb50e307da55\",\"id\":\"88e53b7a-43c5-4630-9d24-bbd1c2df04e8\",\"current_user_message_id\":\"fd3d1c0c-e51d-40a7-874d-e44c0801cc3b\",\"current_user_message_parent_id\":\"4c0f5dce-1de8-4953-b807-75e98544147c\",\"background_tasks\":{\"title_generation\":true,\"tags_generation\":true}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "br"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/event-stream; charset=utf-8"
+            },
+            {
+              "name": "Date",
+              "value": "Tue, 17 Mar 2026 12:33:07 GMT"
+            },
+            {
+              "name": "EagleId",
+              "value": "0125419a17737507686927656e"
+            },
+            {
+              "name": "Server",
+              "value": "ESA"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "access-control-allow-credentials",
+              "value": "true"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "X-Chat-Id, X-Trace-ID"
+            },
+            {
+              "name": "via",
+              "value": "ens-cache15.l2sg7[18723,0,DP], ens-cache13.l2hk7[18754,0,DP], ens-cache6.ph14[18817,0,DP], ens-cache6.ph14[18817,0]"
+            },
+            {
+              "name": "x-process-time",
+              "value": "19"
+            },
+            {
+              "name": "x-site-cache-status",
+              "value": "DYNAMIC"
+            },
+            {
+              "name": "x-trace-id",
+              "value": "19cfbc8d42c95f39"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 15196,
+            "mimeType": "text/event-stream",
+            "compression": 10115,
+            "text": "data: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"1.  **An\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"alyze the Input:**\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"    *   Input string\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\": `test_beta_\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"002`\\n    *  \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Context: The user previously\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" sent `test_alpha_\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"001`. I responded asking\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" for clarification on how to\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" proceed.\\n    *  \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Pattern: The user is\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" sending a sequence of test\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" strings, following a naming\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" convention `test_[g\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"reek_letter]_[number\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"]`.\\n    *  \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Intent: This looks like\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" a sequence test or a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" data logging test. The\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" user isn't providing convers\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"ational context, just the\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" test strings. They are\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" likely testing my ability to\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" recognize patterns, maintain state\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" (if I could),\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" or simply respond consistently.\\n\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"2.  **D\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"etermine the Response Strategy:\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"**\\n    *   *\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Option A (Convers\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"ational/Questioning):\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"* \\\"Okay, I\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" see 'test_beta_\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"002'. What about it\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"?\\\" (This might be\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" annoying if the user is\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" just running a script).\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"    *   *Option\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" B (Pattern Recognition):\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"* Acknowledge the input\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" and note the progression from\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" the previous input (Alpha\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" -> Beta).\\n    *\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"   *Option C (\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Mock/System Response):*\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Pretend I am a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" system processing these codes (\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"e.g., \\\"Received\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" beta package. Status:\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" OK\\\").\\n    *  \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" *Option D (Simple\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Acknowledgment):*\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" \\\"Input received: test\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_beta_002.\\\"\\n\\n3\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".  **Refining\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" the Strategy (Pattern Recognition\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" + Acknowledgment):\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"**\\n    *   Since\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" I asked questions in the\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" first turn and got a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" second similar input without answers\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", it's safer to\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" assume the user wants me\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" to *process* or\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" *echo* the input\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", or perhaps validate the\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" sequence.\\n    *  \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" I should acknowledge the change\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" from `alpha` to\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" `beta`.\\n    *\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"   I should provide a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" clear status update.\\n\\n4\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".  **Drafting\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" the Response:**\\n   \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" *   *Observation\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\":* Input `test_beta\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_002` received.\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"    *   *Comparison\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\":* Previous was `test\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_alpha_001`. This\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" is the next logical step\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" (Alpha -> Beta,\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" 001 -> 002\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\").\\n    *   *\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Action:* Confirm receipt and\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" validate the sequence logic.\\n\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"5.  **Final\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Polish:**\\n    *\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"   Keep it brief but\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" slightly more intelligent than a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" simple echo.\\n    *\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"   \\\"Received: **\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"test_beta_002**\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".\\\"\\n    *   \\\"\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Noted the progression from\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Alpha to Beta.\\\"\\n   \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" *   \\\"Standing by\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" for next instruction.\\\"\\n\\n   \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Let's go with a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" response that mimics a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" test log or system verification\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", as that fits the\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" context of \\\"test_\\\"\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" strings.\\n\\n    *Draft\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\":*\\n    \\\"Input\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" received: **test_beta\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_002**.\\n   \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Status: Success.\\n   \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Sequence update: Alpha ->\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Beta.\\\"\\n\\n    This feels\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" right. It confirms receipt\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", gives a status,\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" and acknowledges the pattern.\\n\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"    *Alternative approach:*\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Just play along with the\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" game. The user is\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" likely testing boundaries or specific\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" token handling. I will\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" provide a structured response confirming\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" receipt.\\n\\n    Let's\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" stick to the format:\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"    1. Confirm\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" receipt.\\n    2\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\". Note the increment.\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"    3. Ask\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" if there is a specific\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" logic or payload expected.\\n\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"    Actually, since I\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" asked questions last time and\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" was ignored, I will\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" just confirm receipt and status\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Input received: **test\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_beta_002**.\\n\\n\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Status: **Acknowledged\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"**.\\n\\nI detect a\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" sequence progression from the previous\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" input (`test_alpha_\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"001` -> `test\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_beta_002`).\\n\\n\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"*   **Prefix:**\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" `alpha` -> `\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"beta`\\n*   **\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Index:** `001`\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" -> `002`\\n\\nStanding\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" by for the next input\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"other\",\"usage\":{\"prompt_tokens\":98,\"completion_tokens\":731,\"total_tokens\":829,\"prompt_tokens_details\":{}}}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" or instructions.\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"done\",\"done\":true}}\n\n"
+          },
+          "redirectURL": "",
+          "headersSize": 633,
+          "bodySize": 5081,
+          "_transferSize": 5714,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "155.102.38.28",
+        "startedDateTime": "2026-03-17T12:32:48.440Z",
+        "time": 36923.85700000159,
+        "timings": {
+          "blocked": 1.5560000040032902,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.8130000000000001,
+          "wait": 18911.738000000147,
+          "receive": 18009.74999999744,
+          "_blocked_queueing": 0.9360000040032901,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "409572",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "window.fetch",
+                "scriptId": "16",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/Cu64bUoQ.js",
+                "lineNumber": 0,
+                "columnNumber": 1655
+              },
+              {
+                "functionName": "",
+                "scriptId": "23",
+                "url": "https://sdk.rum.aliyuncs.com/v2/browser-sdk.js",
+                "lineNumber": 0,
+                "columnNumber": 63752
+              },
+              {
+                "functionName": "Ci.window.fetch",
+                "scriptId": "26",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/AgMBD70M.js",
+                "lineNumber": 27,
+                "columnNumber": 3206
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "29",
+                "url": "https://o.alicdn.com/frontend-lib/common-lib/jquery.min.js",
+                "lineNumber": 0,
+                "columnNumber": 118453
+              },
+              {
+                "functionName": "D",
+                "scriptId": "33",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DUeB7dgS.js",
+                "lineNumber": 0,
+                "columnNumber": 3388
+              },
+              {
+                "functionName": "Hr",
+                "scriptId": "72",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                "lineNumber": 996,
+                "columnNumber": 4945
+              }
+            ],
+            "parent": {
+              "description": "await",
+              "callFrames": [
+                {
+                  "functionName": "",
+                  "scriptId": "72",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 993,
+                  "columnNumber": 54
+                },
+                {
+                  "functionName": "Gr",
+                  "scriptId": "72",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 992,
+                  "columnNumber": 22389
+                }
+              ],
+              "parent": {
+                "description": "await",
+                "callFrames": [
+                  {
+                    "functionName": "xr",
+                    "scriptId": "72",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 992,
+                    "columnNumber": 19797
+                  },
+                  {
+                    "functionName": "Vr",
+                    "scriptId": "72",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 999,
+                    "columnNumber": 4359
+                  }
+                ],
+                "parent": {
+                  "description": "await",
+                  "callFrames": [
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8810
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8796
+                    },
+                    {
+                      "functionName": "ds",
+                      "scriptId": "72",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                      "lineNumber": 24,
+                      "columnNumber": 692
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "pageref": "page_2",
+        "request": {
+          "method": "POST",
+          "url": "https://chat.z.ai/api/v2/chat/completions?timestamp=1773750811244&requestId=d350c18a-b66d-47bf-b771-d311b36ea1a2&user_id=061cba81-b0b7-4f0a-b97e-ccc33febb0fa&version=0.0.1&platform=web&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA2MWNiYTgxLWIwYjctNGYwYS1iOTdlLWNjYzMzZmViYjBmYSIsImVtYWlsIjoidHJpeGN5c2VuYXJpbGxvc0BnbWFpbC5jb20ifQ.gFGPeLf3PtjVpazHbsJbHkMhEkJBpOiQZQyfLtiFfAOe-9nSSTD0wdO350WKiWSqASrtJnoYnqVQjZ-x8R2_pQ&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36&language=en-US&languages=en-US%2Cen&timezone=Australia%2FEucla&cookie_enabled=true&screen_width=1366&screen_height=768&screen_resolution=1366x768&viewport_height=641&viewport_width=770&viewport_size=770x641&color_depth=32&pixel_ratio=1&current_url=https%3A%2F%2Fchat.z.ai%2Fc%2F5d896a7b-d04d-463d-bc70-cb50e307da55&pathname=%2Fc%2F5d896a7b-d04d-463d-bc70-cb50e307da55&search=&hash=&host=chat.z.ai&hostname=chat.z.ai&protocol=https%3A&referrer=https%3A%2F%2Faccounts.google.com%2F&title=Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7&timezone_offset=-525&local_time=2026-03-17T12%3A33%3A31.244Z&utc_time=Tue%2C+17+Mar+2026+12%3A33%3A31+GMT&is_mobile=false&is_touch=false&max_touch_points=0&browser_name=Chrome&os_name=Windows&signature_timestamp=1773750811244",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "867"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "Origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "Referer",
+              "value": "https://chat.z.ai/c/5d896a7b-d04d-463d-bc70-cb50e307da55"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-origin"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "X-FE-Version",
+              "value": "prod-fe-1.0.262"
+            },
+            {
+              "name": "X-Signature",
+              "value": "e32583bd117627f4215f94dbdbce5c38105416c2a5ee080e44452b06933ff053"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Chromium\";v=\"146\", \"Not-A.Brand\";v=\"24\", \"Google Chrome\";v=\"146\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "timestamp",
+              "value": "1773750811244"
+            },
+            {
+              "name": "requestId",
+              "value": "d350c18a-b66d-47bf-b771-d311b36ea1a2"
+            },
+            {
+              "name": "user_id",
+              "value": "061cba81-b0b7-4f0a-b97e-ccc33febb0fa"
+            },
+            {
+              "name": "version",
+              "value": "0.0.1"
+            },
+            {
+              "name": "platform",
+              "value": "web"
+            },
+            {
+              "name": "token",
+              "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA2MWNiYTgxLWIwYjctNGYwYS1iOTdlLWNjYzMzZmViYjBmYSIsImVtYWlsIjoidHJpeGN5c2VuYXJpbGxvc0BnbWFpbC5jb20ifQ.gFGPeLf3PtjVpazHbsJbHkMhEkJBpOiQZQyfLtiFfAOe-9nSSTD0wdO350WKiWSqASrtJnoYnqVQjZ-x8R2_pQ"
+            },
+            {
+              "name": "user_agent",
+              "value": "Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36"
+            },
+            {
+              "name": "language",
+              "value": "en-US"
+            },
+            {
+              "name": "languages",
+              "value": "en-US%2Cen"
+            },
+            {
+              "name": "timezone",
+              "value": "Australia%2FEucla"
+            },
+            {
+              "name": "cookie_enabled",
+              "value": "true"
+            },
+            {
+              "name": "screen_width",
+              "value": "1366"
+            },
+            {
+              "name": "screen_height",
+              "value": "768"
+            },
+            {
+              "name": "screen_resolution",
+              "value": "1366x768"
+            },
+            {
+              "name": "viewport_height",
+              "value": "641"
+            },
+            {
+              "name": "viewport_width",
+              "value": "770"
+            },
+            {
+              "name": "viewport_size",
+              "value": "770x641"
+            },
+            {
+              "name": "color_depth",
+              "value": "32"
+            },
+            {
+              "name": "pixel_ratio",
+              "value": "1"
+            },
+            {
+              "name": "current_url",
+              "value": "https%3A%2F%2Fchat.z.ai%2Fc%2F5d896a7b-d04d-463d-bc70-cb50e307da55"
+            },
+            {
+              "name": "pathname",
+              "value": "%2Fc%2F5d896a7b-d04d-463d-bc70-cb50e307da55"
+            },
+            {
+              "name": "search",
+              "value": ""
+            },
+            {
+              "name": "hash",
+              "value": ""
+            },
+            {
+              "name": "host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "hostname",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "protocol",
+              "value": "https%3A"
+            },
+            {
+              "name": "referrer",
+              "value": "https%3A%2F%2Faccounts.google.com%2F"
+            },
+            {
+              "name": "title",
+              "value": "Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7"
+            },
+            {
+              "name": "timezone_offset",
+              "value": "-525"
+            },
+            {
+              "name": "local_time",
+              "value": "2026-03-17T12%3A33%3A31.244Z"
+            },
+            {
+              "name": "utc_time",
+              "value": "Tue%2C+17+Mar+2026+12%3A33%3A31+GMT"
+            },
+            {
+              "name": "is_mobile",
+              "value": "false"
+            },
+            {
+              "name": "is_touch",
+              "value": "false"
+            },
+            {
+              "name": "max_touch_points",
+              "value": "0"
+            },
+            {
+              "name": "browser_name",
+              "value": "Chrome"
+            },
+            {
+              "name": "os_name",
+              "value": "Windows"
+            },
+            {
+              "name": "signature_timestamp",
+              "value": "1773750811244"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 5373,
+          "bodySize": 867,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"stream\":true,\"model\":\"glm-5\",\"messages\":[{\"role\":\"user\",\"content\":\"test_gamma_003\"}],\"signature_prompt\":\"test_gamma_003\",\"params\":{},\"extra\":{},\"features\":{\"image_generation\":false,\"web_search\":false,\"auto_web_search\":false,\"preview_mode\":true,\"flags\":[],\"enable_thinking\":true},\"variables\":{\"{{USER_NAME}}\":\"Trixcy Senarillos\",\"{{USER_LOCATION}}\":\"Unknown\",\"{{CURRENT_DATETIME}}\":\"2026-03-17 21:18:31\",\"{{CURRENT_DATE}}\":\"2026-03-17\",\"{{CURRENT_TIME}}\":\"21:18:31\",\"{{CURRENT_WEEKDAY}}\":\"Tuesday\",\"{{CURRENT_TIMEZONE}}\":\"Australia/Eucla\",\"{{USER_LANGUAGE}}\":\"en-US\"},\"chat_id\":\"5d896a7b-d04d-463d-bc70-cb50e307da55\",\"id\":\"5b13929f-236b-422f-a7d7-637b7adfddc5\",\"current_user_message_id\":\"e3acf62f-1372-45a9-a06a-108cc52c9407\",\"current_user_message_parent_id\":\"88e53b7a-43c5-4630-9d24-bbd1c2df04e8\",\"background_tasks\":{\"title_generation\":true,\"tags_generation\":true}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "br"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/event-stream; charset=utf-8"
+            },
+            {
+              "name": "Date",
+              "value": "Tue, 17 Mar 2026 12:33:43 GMT"
+            },
+            {
+              "name": "EagleId",
+              "value": "012541a217737508114817390e"
+            },
+            {
+              "name": "Server",
+              "value": "ESA"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "access-control-allow-credentials",
+              "value": "true"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "X-Chat-Id, X-Trace-ID"
+            },
+            {
+              "name": "via",
+              "value": "ens-cache22.l2sg7[12109,0,DP], ens-cache14.ph14[12159,0,DP], ens-cache14.ph14[12159,0]"
+            },
+            {
+              "name": "x-process-time",
+              "value": "12"
+            },
+            {
+              "name": "x-site-cache-status",
+              "value": "DYNAMIC"
+            },
+            {
+              "name": "x-trace-id",
+              "value": "19cfbc97b33334b5"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 8227,
+            "mimeType": "text/event-stream",
+            "compression": 5520,
+            "text": "data: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"1.  **An\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"alyze the User's Input\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\":** The user sent \\\"\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"test_gamma_003\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"\\\".\\n2.  **\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Analyze Context:** This\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" is the third message in\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" a sequence.\\n    *\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"   Message 1:\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" `test_alpha_001\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"`\\n    *   Message\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" 2: `test\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_beta_002`\\n   \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" *   Message 3\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\": `test_gamma_\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"003`\\n3.\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"  **Identify the\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Pattern:**\\n    *\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"   **Prefix:** Greek\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" alphabet progression (Alpha ->\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Beta -> Gamma).\\n   \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" *   **Number:**\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Integer increment by 1\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" (001 -> 002\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" -> 003).\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"    *   **Format\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\":** `test_{g\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"reek}_{formatted_number}`\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".\\n4.  **\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Determine the Appropriate\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Response:**\\n    *\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"   Acknowledge the input\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".\\n    *   Confirm\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" the pattern recognition.\\n   \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" *   Predict the next\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" logical step (Delta,\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" 004).\\n   \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" *   Keep the tone\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" consistent with the previous turns\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" (efficient, slightly robotic\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"/monitoring style).\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"5.  **Draft\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"ing the Response:**\\n\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"    *   *Input\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\":* test_gamma_00\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"3\\n    *  \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" *Observation:* Pattern\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" continues.\\n    *  \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" *Prediction:* test_delta\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_004.\\n   \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" *   *Action:*\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Acknowledge and await next\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" command.\\n6. \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" **Refining the Output\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\":**\\n    *  \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" \\\"Input received: **\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"test_gamma_003\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"**.\\\"\\n    *  \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" \\\"Sequence confirmed:\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Alpha -> Beta -> Gamma\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".\\\"\\n    *   \\\"\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Count incremented: 00\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"3.\\\"\\n    *  \",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" \\\"Anticipating next\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" key: **test_delta\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_004**.\\\"\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Input received: **test\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_gamma_003**\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".\\n\\nSequence confirmed. The\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" pattern is progressing as expected\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\":\\n\\n1.  `\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"test_alpha_001`\\n\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"2.  `test\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_beta_002`\\n3\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".  `test_gamma\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_003`\\n\\n**\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Prediction for next input:**\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" `test_delta_00\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"4`.\\n\\nAwaiting instructions\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" or the next sequence entry\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"other\",\"usage\":{\"prompt_tokens\":179,\"completion_tokens\":402,\"total_tokens\":581,\"prompt_tokens_details\":{\"cached_tokens\":64}}}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\".\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"done\",\"done\":true}}\n\n"
+          },
+          "redirectURL": "",
+          "headersSize": 604,
+          "bodySize": 2707,
+          "_transferSize": 3311,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "155.102.38.27",
+        "startedDateTime": "2026-03-17T12:33:31.247Z",
+        "time": 22420.14399999607,
+        "timings": {
+          "blocked": 1.49299999485258,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.5499999999999999,
+          "wait": 12233.48400000224,
+          "receive": 10184.61699999898,
+          "_blocked_queueing": 0.8229999948525801,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      }
+    ]
+  }
+}

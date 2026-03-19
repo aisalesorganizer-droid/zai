@@ -1,0 +1,13 @@
+{
+  "saved_at": "2026-03-18T01:12:47.376017",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hey there?"
+    },
+    {
+      "role": "assistant",
+      "content": "! I'm your GLM model trained by Z.ai. How can I assist you today? Whether you have questions or just want to chat, I'm happy to help"
+    }
+  ]
+}

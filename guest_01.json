@@ -1,0 +1,89 @@
+{
+  "label": "guest_01",
+  "jwt_token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlMDMxNDE0LTgzZjctNDFjYy1iNTg4LTZmZTFlZTY5YTgwNCIsImVtYWlsIjoiR3Vlc3QtMTc3Mzg4MzEzMTA3NkBndWVzdC5jb20ifQ.r5RcnYu3RCJc4-Pge-_jBuX4lOoHw6sFwIxPsn0aEPYMBSYAq3Ybxx7meTJxuX9NbPbdl9WcQRKkXjAQN1LUXA",
+  "user_id": "5e031414-83f7-41cc-b588-6fe1ee69a804",
+  "fe_version": "prod-fe-1.0.266",
+  "cookies": [
+    {
+      "name": "cdn_sec_tc",
+      "value": "a3b5c9a317738831308225283e884b125568f0466da49a1c5edacdd250",
+      "domain": "chat.z.ai",
+      "path": "/",
+      "expires": 1773886730.885787,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "acw_tc",
+      "value": "0a094e6517738831308186089e4ead42b30c39bb6f706aadce48cad68dae0d",
+      "domain": "chat.z.ai",
+      "path": "/",
+      "expires": 1773884930.885879,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "token",
+      "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlMDMxNDE0LTgzZjctNDFjYy1iNTg4LTZmZTFlZTY5YTgwNCIsImVtYWlsIjoiR3Vlc3QtMTc3Mzg4MzEzMTA3NkBndWVzdC5jb20ifQ.r5RcnYu3RCJc4-Pge-_jBuX4lOoHw6sFwIxPsn0aEPYMBSYAq3Ybxx7meTJxuX9NbPbdl9WcQRKkXjAQN1LUXA",
+      "domain": "chat.z.ai",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.305410653.1773883132",
+      "domain": ".z.ai",
+      "path": "/",
+      "expires": 1781659131,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.153202710.1773883132",
+      "domain": ".z.ai",
+      "path": "/",
+      "expires": 1808443131.956732,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_Z8QTHYBHP3",
+      "value": "GS2.1.s1773883131$o1$g0$t1773883131$j60$l0$h0",
+      "domain": ".z.ai",
+      "path": "/",
+      "expires": 1808443131.983823,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssxmod_itna",
+      "value": "1-iq_x07exRDyDgQDhrzDRQGOmG2DBBcYxBP01DpxYK0CFDLxnR4GdOueD97=bnnmx3qhQdQjDyAQlD05xDcQSeDyGxA3DT=49DNKBhLhxvNonn2q4lFn1Ow_IOM90RguOBOrMyyvdvtZrF7eDU4Gnm_ArK7eD44DvDBYD74G_DDeDixbDzkTDtqD9txDFjeDLDAti1r4EjmG8I2GQXfm4x0QDAM3DiT4dtxDgjeD_txDM3mwTAPcWDiNhyeGWRnDD0qxeD7YqYIREvUn821Hsxz7d4U0wPzSpBlTr6eGmm_wORQ/iNOSD57od7rzO=wAtlAxe7DUrxK0qwB5e0qtx5tEYl0G7ndDDfQSPXWDmjXgONl=_5fGVW5DpxyGq2GwilDQ9wsemhjG57GPgm5lDCj0P72QUKxD",
+      "domain": ".z.ai",
+      "path": "/",
+      "expires": 1773884932,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ssxmod_itna2",
+      "value": "1-iq_x07exRDyDgQDhrzDRQGOmG2DBBcYxBP01DpxYK0CFDLxnR4GdOueD97=bnnmx3qhQdQjDyAQwDDcYqwC4=SuveBgqA5hes770W0KeD",
+      "domain": ".z.ai",
+      "path": "/",
+      "expires": 1773884932,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "captured_at": "2026-03-19T01:19:21.109997+00:00"
+}

@@ -1,0 +1,40 @@
+Local Storage:
+http://chat.z.ai
+
+__00b204e9800998__	695738684a19cfbbe7a87||1789302090434
+_arms_session	2c52fe35621b4b708e3f1febc340d69d-1-1773750087519-1773750588676
+_arms_uid	uid_zr5swrnzxmko0an1
+_gcl_ls	{"schema":"gcl","version":1,"gcl_ctr":{"value":{"value":0,"timeouts":0,"errors":0,"creationTimeMs":1773750088645},"expires":1781526088645}}
+advanced_search_open	false
+last_mode	chat
+locale	en-US
+selectedModels	["glm-5"]
+shouldSuggestModel	false
+sidebar	false
+theme	light
+token	eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjFhYTZlMTBlLWRhYzItNGE3ZC1hNzQ4LWNmYmUxZmNkY2Q3ZSIsImVtYWlsIjoiY2FuZWRvY2hlcnJ5N0BnbWFpbC5jb20ifQ.SksY8Q1OnUqOTyGeBnN9QEErrLRziR1aJCSX3sxVybcfXy6zTtExG-M2aDUKeyvRkDAdItegaeGDqBlnBR6rJg
+
+---
+Cookies:
+http://chat.z.ai
+
+__Secure-1PAPISID	o-9AMDN7euBnZNIC/ALt_7gpXxJLRkNyKq	.google.com	/	2027-04-21T10:28:32.617Z	51		✓				High	
+__Secure-1PAPISID	o-9AMDN7euBnZNIC/ALt_7gpXxJLRkNyKq	.google.com.ph	/	2027-04-21T10:28:33.028Z	51		✓				High	
+__Secure-1PSID	g.a0007wgvRKh4KOIambdGp9pdu4NcNzXHmckcX_pzDRHpbLn67eMQnAi1-oM9uTHFQiSearAv8AACgYKAYMSARESFQHGX2MihrdJhdt8vchLOzJkyxVFcxoVAUF8yKrEG-C64mcoTxSs87pN2wHu0076	.google.com.ph	/	2027-04-21T10:28:33.027Z	167	✓	✓				High	
+__Secure-1PSID	g.a0007wgvRKh4KOIambdGp9pdu4NcNzXHmckcX_pzDRHpbLn67eMQnAi1-oM9uTHFQiSearAv8AACgYKAYMSARESFQHGX2MihrdJhdt8vchLOzJkyxVFcxoVAUF8yKrEG-C64mcoTxSs87pN2wHu0076	.google.com	/	2027-04-21T10:28:32.615Z	167	✓	✓				High	
+__Secure-1PSIDCC	AKEyXzXMyQK8Bbn1GwahQ6YonSwkpHehLqdf5wMxo4I8FE7bvLfShLq0QXuKi0uomHNmJ-UW	.google.com	/	2027-03-17T12:27:59.760Z	88	✓	✓				High	
+__Secure-1PSIDTS	sidts-CjEBBj1CYvMZWlDEooUdZm7_mmEoDymX2-SrJiQyG92cDahYhgLt7KfMyW9Hfx-dgAnvEAA	.google.com	/	2027-03-17T11:21:18.323Z	93	✓	✓				High	
+__Secure-3PAPISID	o-9AMDN7euBnZNIC/ALt_7gpXxJLRkNyKq	.google.com	/	2027-04-21T10:28:32.617Z	51		✓	None			High	
+__Secure-3PAPISID	o-9AMDN7euBnZNIC/ALt_7gpXxJLRkNyKq	.google.com.ph	/	2027-04-21T10:28:33.028Z	51		✓	None			High	
+__Secure-3PSID	g.a0007wgvRKh4KOIambdGp9pdu4NcNzXHmckcX_pzDRHpbLn67eMQzcEWHjEAw_zwcWyQ9GcbJQACgYKAU0SARESFQHGX2MisgYVV9bZYCH8bPO3lDp5IhoVAUF8yKpdm_N_N7ovfZgq3u8BG3Pf0076	.google.com	/	2027-04-21T10:28:32.615Z	167	✓	✓	None			High	
+__Secure-3PSID	g.a0007wgvRKh4KOIambdGp9pdu4NcNzXHmckcX_pzDRHpbLn67eMQzcEWHjEAw_zwcWyQ9GcbJQACgYKAU0SARESFQHGX2MisgYVV9bZYCH8bPO3lDp5IhoVAUF8yKpdm_N_N7ovfZgq3u8BG3Pf0076	.google.com.ph	/	2027-04-21T10:28:33.028Z	167	✓	✓	None			High	
+__Secure-3PSIDCC	AKEyXzVVuCI0IN17q7rxjCpapXswutC2RUQnFInt-MW8VVOzAGRbGbecF-Kzucc5-R2m7iyPnQ	.google.com	/	2027-03-17T12:29:29.463Z	90	✓	✓	None			High	
+__Secure-3PSIDTS	sidts-CjEBBj1CYvMZWlDEooUdZm7_mmEoDymX2-SrJiQyG92cDahYhgLt7KfMyW9Hfx-dgAnvEAA	.google.com	/	2027-03-17T11:21:18.323Z	93	✓	✓	None			High	
+__Secure-BUCKET	CKcE	.google.com	/	2026-09-13T06:11:45.730Z	19	✓	✓				Medium	
+_ga	GA1.1.1891619035.1773750088	.z.ai	/	2027-04-21T12:28:02.123Z	30						Medium	
+_ga_Z8QTHYBHP3	GS2.1.s1773750088$o1$g1$t1773750569$j10$l0$h0	.z.ai	/	2027-04-21T12:29:29.198Z	59						Medium	
+_gcl_au	1.1.86506779.1773750088	.z.ai	/	2026-06-15T12:21:28.000Z	30						Medium	
+acw_tc	0a094e7317737500832548742e3fca893ccf3bf44a9d3adeac7ddce995bfe1	chat.z.ai	/	2026-03-17T12:51:23.305Z	68	✓					Medium	
+AEC	AaJma5viALdeMtvwegeeLZ3pxRo1lztnDisp7FI8_aQQsLc0N3BVLoL-neM	.google.com	/	2026-09-13T06:11:45.729Z	62	✓	✓	Lax			Medium	
+APISID	iiR2B1wp2VmL2uug/Ap51NcAYwYmhg4xLL	.google.com.ph	/	2027-04-21T10:28:33.028Z	40						High	
+

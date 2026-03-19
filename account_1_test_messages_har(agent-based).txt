@@ -1,0 +1,1424 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": "537.36"
+    },
+    "pages": [],
+    "entries": [
+      {
+        "_connectionId": "431205",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "window.fetch",
+                "scriptId": "16",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/Cu64bUoQ.js",
+                "lineNumber": 0,
+                "columnNumber": 1655
+              },
+              {
+                "functionName": "",
+                "scriptId": "22",
+                "url": "https://sdk.rum.aliyuncs.com/v2/browser-sdk.js",
+                "lineNumber": 0,
+                "columnNumber": 63752
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "50",
+                "url": "https://o.alicdn.com/frontend-lib/common-lib/jquery.min.js",
+                "lineNumber": 0,
+                "columnNumber": 118453
+              },
+              {
+                "functionName": "Ci.window.fetch",
+                "scriptId": "25",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/AgMBD70M.js",
+                "lineNumber": 27,
+                "columnNumber": 3206
+              },
+              {
+                "functionName": "D",
+                "scriptId": "31",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DUeB7dgS.js",
+                "lineNumber": 0,
+                "columnNumber": 3388
+              },
+              {
+                "functionName": "Hr",
+                "scriptId": "74",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                "lineNumber": 996,
+                "columnNumber": 4945
+              }
+            ],
+            "parent": {
+              "description": "await",
+              "callFrames": [
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 993,
+                  "columnNumber": 54
+                },
+                {
+                  "functionName": "Gr",
+                  "scriptId": "74",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 992,
+                  "columnNumber": 22389
+                }
+              ],
+              "parent": {
+                "description": "await",
+                "callFrames": [
+                  {
+                    "functionName": "xr",
+                    "scriptId": "74",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 992,
+                    "columnNumber": 19797
+                  },
+                  {
+                    "functionName": "Yy",
+                    "scriptId": "74",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 999,
+                    "columnNumber": 5723
+                  }
+                ],
+                "parent": {
+                  "description": "await",
+                  "callFrames": [
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8810
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8796
+                    },
+                    {
+                      "functionName": "Rn",
+                      "scriptId": "74",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                      "lineNumber": 986,
+                      "columnNumber": 163561
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8810
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8796
+                    },
+                    {
+                      "functionName": "jn",
+                      "scriptId": "74",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                      "lineNumber": 24,
+                      "columnNumber": 3715
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 4285
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "POST",
+          "url": "https://chat.z.ai/api/v2/chat/completions?timestamp=1773751216349&requestId=631ba524-2b06-4062-b45a-44c7c9d80270&user_id=08ba2870-9072-4137-9686-a9d62e27fff6&version=0.0.1&platform=web&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA4YmEyODcwLTkwNzItNDEzNy05Njg2LWE5ZDYyZTI3ZmZmNiIsImVtYWlsIjoiZWR3aW5zZW5hcmlsbG9zNTk5QGdtYWlsLmNvbSJ9.lyJYn0OIYI3LMoi22lU4GCd0pfdkI5dBFnsoUB5K3j5QDYkL3tsZIwgIFPlSdQyudI0aFyVIQ92lpSqF6sIzZw&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36&language=en-US&languages=en-US%2Cen&timezone=Australia%2FEucla&cookie_enabled=true&screen_width=1366&screen_height=768&screen_resolution=1366x768&viewport_height=641&viewport_width=808&viewport_size=808x641&color_depth=32&pixel_ratio=1&current_url=https%3A%2F%2Fchat.z.ai%2Fc%2F4ab6e1e1-2f4a-4590-baa2-c2418d210a2a&pathname=%2Fc%2F4ab6e1e1-2f4a-4590-baa2-c2418d210a2a&search=&hash=&host=chat.z.ai&hostname=chat.z.ai&protocol=https%3A&referrer=https%3A%2F%2Faccounts.google.com%2F&title=Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7&timezone_offset=-525&local_time=2026-03-17T12%3A40%3A16.349Z&utc_time=Tue%2C+17+Mar+2026+12%3A40%3A16+GMT&is_mobile=false&is_touch=false&max_touch_points=0&browser_name=Chrome&os_name=Windows&signature_timestamp=1773751216349",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "847"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "Origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "Referer",
+              "value": "https://chat.z.ai/c/4ab6e1e1-2f4a-4590-baa2-c2418d210a2a"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-origin"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "X-FE-Version",
+              "value": "prod-fe-1.0.262"
+            },
+            {
+              "name": "X-Signature",
+              "value": "b120e7a599f52c02a737d5854bcf22d503de2b4077b05132df8d04d661dcb453"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Chromium\";v=\"146\", \"Not-A.Brand\";v=\"24\", \"Google Chrome\";v=\"146\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "timestamp",
+              "value": "1773751216349"
+            },
+            {
+              "name": "requestId",
+              "value": "631ba524-2b06-4062-b45a-44c7c9d80270"
+            },
+            {
+              "name": "user_id",
+              "value": "08ba2870-9072-4137-9686-a9d62e27fff6"
+            },
+            {
+              "name": "version",
+              "value": "0.0.1"
+            },
+            {
+              "name": "platform",
+              "value": "web"
+            },
+            {
+              "name": "token",
+              "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA4YmEyODcwLTkwNzItNDEzNy05Njg2LWE5ZDYyZTI3ZmZmNiIsImVtYWlsIjoiZWR3aW5zZW5hcmlsbG9zNTk5QGdtYWlsLmNvbSJ9.lyJYn0OIYI3LMoi22lU4GCd0pfdkI5dBFnsoUB5K3j5QDYkL3tsZIwgIFPlSdQyudI0aFyVIQ92lpSqF6sIzZw"
+            },
+            {
+              "name": "user_agent",
+              "value": "Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36"
+            },
+            {
+              "name": "language",
+              "value": "en-US"
+            },
+            {
+              "name": "languages",
+              "value": "en-US%2Cen"
+            },
+            {
+              "name": "timezone",
+              "value": "Australia%2FEucla"
+            },
+            {
+              "name": "cookie_enabled",
+              "value": "true"
+            },
+            {
+              "name": "screen_width",
+              "value": "1366"
+            },
+            {
+              "name": "screen_height",
+              "value": "768"
+            },
+            {
+              "name": "screen_resolution",
+              "value": "1366x768"
+            },
+            {
+              "name": "viewport_height",
+              "value": "641"
+            },
+            {
+              "name": "viewport_width",
+              "value": "808"
+            },
+            {
+              "name": "viewport_size",
+              "value": "808x641"
+            },
+            {
+              "name": "color_depth",
+              "value": "32"
+            },
+            {
+              "name": "pixel_ratio",
+              "value": "1"
+            },
+            {
+              "name": "current_url",
+              "value": "https%3A%2F%2Fchat.z.ai%2Fc%2F4ab6e1e1-2f4a-4590-baa2-c2418d210a2a"
+            },
+            {
+              "name": "pathname",
+              "value": "%2Fc%2F4ab6e1e1-2f4a-4590-baa2-c2418d210a2a"
+            },
+            {
+              "name": "search",
+              "value": ""
+            },
+            {
+              "name": "hash",
+              "value": ""
+            },
+            {
+              "name": "host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "hostname",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "protocol",
+              "value": "https%3A"
+            },
+            {
+              "name": "referrer",
+              "value": "https%3A%2F%2Faccounts.google.com%2F"
+            },
+            {
+              "name": "title",
+              "value": "Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7"
+            },
+            {
+              "name": "timezone_offset",
+              "value": "-525"
+            },
+            {
+              "name": "local_time",
+              "value": "2026-03-17T12%3A40%3A16.349Z"
+            },
+            {
+              "name": "utc_time",
+              "value": "Tue%2C+17+Mar+2026+12%3A40%3A16+GMT"
+            },
+            {
+              "name": "is_mobile",
+              "value": "false"
+            },
+            {
+              "name": "is_touch",
+              "value": "false"
+            },
+            {
+              "name": "max_touch_points",
+              "value": "0"
+            },
+            {
+              "name": "browser_name",
+              "value": "Chrome"
+            },
+            {
+              "name": "os_name",
+              "value": "Windows"
+            },
+            {
+              "name": "signature_timestamp",
+              "value": "1773751216349"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 5401,
+          "bodySize": 847,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"stream\":true,\"model\":\"glm-5\",\"messages\":[{\"role\":\"user\",\"content\":\"test_alpha_001\"}],\"signature_prompt\":\"test_alpha_001\",\"params\":{},\"extra\":{},\"features\":{\"image_generation\":false,\"web_search\":false,\"auto_web_search\":false,\"preview_mode\":true,\"flags\":[\"general_agent\"],\"enable_thinking\":true},\"variables\":{\"{{USER_NAME}}\":\"Edwin Senarillos\",\"{{USER_LOCATION}}\":\"Unknown\",\"{{CURRENT_DATETIME}}\":\"2026-03-17 21:25:16\",\"{{CURRENT_DATE}}\":\"2026-03-17\",\"{{CURRENT_TIME}}\":\"21:25:16\",\"{{CURRENT_WEEKDAY}}\":\"Tuesday\",\"{{CURRENT_TIMEZONE}}\":\"Australia/Eucla\",\"{{USER_LANGUAGE}}\":\"en-US\"},\"chat_id\":\"4ab6e1e1-2f4a-4590-baa2-c2418d210a2a\",\"id\":\"f928fec9-c0cf-4de5-93fa-6766d4460575\",\"current_user_message_id\":\"6dd32243-90ab-4145-adf1-0979ba63e35a\",\"current_user_message_parent_id\":null,\"background_tasks\":{\"title_generation\":true,\"tags_generation\":true}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "br"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/event-stream; charset=utf-8"
+            },
+            {
+              "name": "Date",
+              "value": "Tue, 17 Mar 2026 12:40:20 GMT"
+            },
+            {
+              "name": "EagleId",
+              "value": "012541ac17737512165962692e"
+            },
+            {
+              "name": "Server",
+              "value": "ESA"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "access-control-allow-credentials",
+              "value": "true"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "X-Chat-Id, X-Trace-ID"
+            },
+            {
+              "name": "via",
+              "value": "ens-cache42.l2sg7[4152,0,DP], ens-cache10.l2hk12[4183,0,DP], ens-cache24.ph14[4221,0,DP], ens-cache24.ph14[4221,0]"
+            },
+            {
+              "name": "x-process-time",
+              "value": "4"
+            },
+            {
+              "name": "x-site-cache-status",
+              "value": "DYNAMIC"
+            },
+            {
+              "name": "x-trace-id",
+              "value": "19cfbcfa9aa87029"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 4638,
+            "mimeType": "text/event-stream",
+            "compression": 2594,
+            "text": "data: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"The user has sent \\\"\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"test_alpha_001\\\"\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" which appears to be a\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" test message or identifier.\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Let me respond appropriately -\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" this seems like a simple\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" greeting or test to check\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" if the system is working\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\". I should respond in\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" a helpful and friendly manner\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\", acknowledging their message and\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" asking how I can assist\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" them.\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"你好！收到你的测试\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"消息 \\\"test_alpha_\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"001\\\"。\\n\\n我是 Super\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" Z，一个智能 CLI\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" 助手，可以帮助\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"你完成多种任务，\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"包括：\\n\\n- **软件开发\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"** - 编写代码\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"、调试、构建 Web\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" 应用\\n- **文档\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"处理** - 创建/\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"编辑 Word、PDF、\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"Excel、PPT 文件\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"\\n- **AI 功能\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"** - 图像生成\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"、语音合成、语音\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"识别、视频生成等\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"\\n- **数据分析**\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" - 数据处理、可视化\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"、报告生成\\n-\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" **网络搜索** -\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" 获取实时信息、\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"网页内容提取\\n\\n请问\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"有什么我可以帮助你的吗\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"other\",\"usage\":{\"prompt_tokens\":12955,\"completion_tokens\":185,\"total_tokens\":13140,\"prompt_tokens_details\":{\"cached_tokens\":12928}}}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"？\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"done\",\"done\":true,\"metadata\":{\"version_info\":{\"created_at\":\"2026-03-17T12:40:28.628135+00:00\",\"message\":\"Successfully created PolarFS snapshot\",\"message_id\":\"f928fec9-c0cf-4de5-93fa-6766d4460575\",\"metadata\":{\"modified_files\":[],\"modified_files_count\":0,\"new_files\":[],\"new_files_count\":0,\"snapshot_available\":true},\"request_id\":\"7E391C49-4A30-36F4-A598-DB67BA563F0D\",\"source\":\"/08ba2870-9072-4137-9686-a9d62e27fff6/chat-4ab6e1e1-2f4a-4590-baa2-c2418d210a2a/my-project\",\"success\":true,\"target\":\"/f928fec9-c0cf-4de5-93fa-6766d4460575/\"}}}}\n\n"
+          },
+          "redirectURL": "",
+          "headersSize": 631,
+          "bodySize": 2044,
+          "_transferSize": 2675,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "155.102.38.53",
+        "startedDateTime": "2026-03-17T12:40:16.353Z",
+        "time": 12364.187999999558,
+        "timings": {
+          "blocked": 1.9680000013206154,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.355,
+          "wait": 4288.011000003484,
+          "receive": 8073.853999994753,
+          "_blocked_queueing": 1.1430000013206154,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "431843",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "window.fetch",
+                "scriptId": "16",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/Cu64bUoQ.js",
+                "lineNumber": 0,
+                "columnNumber": 1655
+              },
+              {
+                "functionName": "",
+                "scriptId": "22",
+                "url": "https://sdk.rum.aliyuncs.com/v2/browser-sdk.js",
+                "lineNumber": 0,
+                "columnNumber": 63752
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "50",
+                "url": "https://o.alicdn.com/frontend-lib/common-lib/jquery.min.js",
+                "lineNumber": 0,
+                "columnNumber": 118453
+              },
+              {
+                "functionName": "Ci.window.fetch",
+                "scriptId": "25",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/AgMBD70M.js",
+                "lineNumber": 27,
+                "columnNumber": 3206
+              },
+              {
+                "functionName": "D",
+                "scriptId": "31",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DUeB7dgS.js",
+                "lineNumber": 0,
+                "columnNumber": 3388
+              },
+              {
+                "functionName": "Hr",
+                "scriptId": "74",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                "lineNumber": 996,
+                "columnNumber": 4945
+              }
+            ],
+            "parent": {
+              "description": "await",
+              "callFrames": [
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 993,
+                  "columnNumber": 54
+                },
+                {
+                  "functionName": "Gr",
+                  "scriptId": "74",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 992,
+                  "columnNumber": 22389
+                }
+              ],
+              "parent": {
+                "description": "await",
+                "callFrames": [
+                  {
+                    "functionName": "xr",
+                    "scriptId": "74",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 992,
+                    "columnNumber": 19797
+                  },
+                  {
+                    "functionName": "Vr",
+                    "scriptId": "74",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 999,
+                    "columnNumber": 4359
+                  }
+                ],
+                "parent": {
+                  "description": "await",
+                  "callFrames": [
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8810
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8796
+                    },
+                    {
+                      "functionName": "ds",
+                      "scriptId": "74",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                      "lineNumber": 24,
+                      "columnNumber": 692
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "POST",
+          "url": "https://chat.z.ai/api/v2/chat/completions?timestamp=1773751243503&requestId=0492335f-19c0-4e34-9605-20a27379d0be&user_id=08ba2870-9072-4137-9686-a9d62e27fff6&version=0.0.1&platform=web&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA4YmEyODcwLTkwNzItNDEzNy05Njg2LWE5ZDYyZTI3ZmZmNiIsImVtYWlsIjoiZWR3aW5zZW5hcmlsbG9zNTk5QGdtYWlsLmNvbSJ9.lyJYn0OIYI3LMoi22lU4GCd0pfdkI5dBFnsoUB5K3j5QDYkL3tsZIwgIFPlSdQyudI0aFyVIQ92lpSqF6sIzZw&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36&language=en-US&languages=en-US%2Cen&timezone=Australia%2FEucla&cookie_enabled=true&screen_width=1366&screen_height=768&screen_resolution=1366x768&viewport_height=641&viewport_width=569&viewport_size=569x641&color_depth=32&pixel_ratio=1&current_url=https%3A%2F%2Fchat.z.ai%2Fc%2F4ab6e1e1-2f4a-4590-baa2-c2418d210a2a&pathname=%2Fc%2F4ab6e1e1-2f4a-4590-baa2-c2418d210a2a&search=&hash=&host=chat.z.ai&hostname=chat.z.ai&protocol=https%3A&referrer=https%3A%2F%2Faccounts.google.com%2F&title=Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7&timezone_offset=-525&local_time=2026-03-17T12%3A40%3A43.504Z&utc_time=Tue%2C+17+Mar+2026+12%3A40%3A43+GMT&is_mobile=false&is_touch=false&max_touch_points=0&browser_name=Chrome&os_name=Windows&signature_timestamp=1773751243503",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "879"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "Origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "Referer",
+              "value": "https://chat.z.ai/c/4ab6e1e1-2f4a-4590-baa2-c2418d210a2a"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-origin"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "X-FE-Version",
+              "value": "prod-fe-1.0.262"
+            },
+            {
+              "name": "X-Signature",
+              "value": "551839e246f6fbabd7ed0334cf915a0954affef53b1c84713eb4233f55f1b15f"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Chromium\";v=\"146\", \"Not-A.Brand\";v=\"24\", \"Google Chrome\";v=\"146\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "timestamp",
+              "value": "1773751243503"
+            },
+            {
+              "name": "requestId",
+              "value": "0492335f-19c0-4e34-9605-20a27379d0be"
+            },
+            {
+              "name": "user_id",
+              "value": "08ba2870-9072-4137-9686-a9d62e27fff6"
+            },
+            {
+              "name": "version",
+              "value": "0.0.1"
+            },
+            {
+              "name": "platform",
+              "value": "web"
+            },
+            {
+              "name": "token",
+              "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA4YmEyODcwLTkwNzItNDEzNy05Njg2LWE5ZDYyZTI3ZmZmNiIsImVtYWlsIjoiZWR3aW5zZW5hcmlsbG9zNTk5QGdtYWlsLmNvbSJ9.lyJYn0OIYI3LMoi22lU4GCd0pfdkI5dBFnsoUB5K3j5QDYkL3tsZIwgIFPlSdQyudI0aFyVIQ92lpSqF6sIzZw"
+            },
+            {
+              "name": "user_agent",
+              "value": "Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36"
+            },
+            {
+              "name": "language",
+              "value": "en-US"
+            },
+            {
+              "name": "languages",
+              "value": "en-US%2Cen"
+            },
+            {
+              "name": "timezone",
+              "value": "Australia%2FEucla"
+            },
+            {
+              "name": "cookie_enabled",
+              "value": "true"
+            },
+            {
+              "name": "screen_width",
+              "value": "1366"
+            },
+            {
+              "name": "screen_height",
+              "value": "768"
+            },
+            {
+              "name": "screen_resolution",
+              "value": "1366x768"
+            },
+            {
+              "name": "viewport_height",
+              "value": "641"
+            },
+            {
+              "name": "viewport_width",
+              "value": "569"
+            },
+            {
+              "name": "viewport_size",
+              "value": "569x641"
+            },
+            {
+              "name": "color_depth",
+              "value": "32"
+            },
+            {
+              "name": "pixel_ratio",
+              "value": "1"
+            },
+            {
+              "name": "current_url",
+              "value": "https%3A%2F%2Fchat.z.ai%2Fc%2F4ab6e1e1-2f4a-4590-baa2-c2418d210a2a"
+            },
+            {
+              "name": "pathname",
+              "value": "%2Fc%2F4ab6e1e1-2f4a-4590-baa2-c2418d210a2a"
+            },
+            {
+              "name": "search",
+              "value": ""
+            },
+            {
+              "name": "hash",
+              "value": ""
+            },
+            {
+              "name": "host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "hostname",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "protocol",
+              "value": "https%3A"
+            },
+            {
+              "name": "referrer",
+              "value": "https%3A%2F%2Faccounts.google.com%2F"
+            },
+            {
+              "name": "title",
+              "value": "Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7"
+            },
+            {
+              "name": "timezone_offset",
+              "value": "-525"
+            },
+            {
+              "name": "local_time",
+              "value": "2026-03-17T12%3A40%3A43.504Z"
+            },
+            {
+              "name": "utc_time",
+              "value": "Tue%2C+17+Mar+2026+12%3A40%3A43+GMT"
+            },
+            {
+              "name": "is_mobile",
+              "value": "false"
+            },
+            {
+              "name": "is_touch",
+              "value": "false"
+            },
+            {
+              "name": "max_touch_points",
+              "value": "0"
+            },
+            {
+              "name": "browser_name",
+              "value": "Chrome"
+            },
+            {
+              "name": "os_name",
+              "value": "Windows"
+            },
+            {
+              "name": "signature_timestamp",
+              "value": "1773751243503"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 5315,
+          "bodySize": 879,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"stream\":true,\"model\":\"glm-5\",\"messages\":[{\"role\":\"user\",\"content\":\"test_beta_002\"}],\"signature_prompt\":\"test_beta_002\",\"params\":{},\"extra\":{},\"features\":{\"image_generation\":false,\"web_search\":false,\"auto_web_search\":false,\"preview_mode\":true,\"flags\":[\"general_agent\"],\"enable_thinking\":true},\"variables\":{\"{{USER_NAME}}\":\"Edwin Senarillos\",\"{{USER_LOCATION}}\":\"Unknown\",\"{{CURRENT_DATETIME}}\":\"2026-03-17 21:25:43\",\"{{CURRENT_DATE}}\":\"2026-03-17\",\"{{CURRENT_TIME}}\":\"21:25:43\",\"{{CURRENT_WEEKDAY}}\":\"Tuesday\",\"{{CURRENT_TIMEZONE}}\":\"Australia/Eucla\",\"{{USER_LANGUAGE}}\":\"en-US\"},\"chat_id\":\"4ab6e1e1-2f4a-4590-baa2-c2418d210a2a\",\"id\":\"d836e0d7-27e6-4f33-8d2e-f0973329bb92\",\"current_user_message_id\":\"5a2f7227-76ba-4617-bfcf-c2975f2e1cf9\",\"current_user_message_parent_id\":\"f928fec9-c0cf-4de5-93fa-6766d4460575\",\"background_tasks\":{\"title_generation\":true,\"tags_generation\":true}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "br"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/event-stream; charset=utf-8"
+            },
+            {
+              "name": "Date",
+              "value": "Tue, 17 Mar 2026 12:40:54 GMT"
+            },
+            {
+              "name": "EagleId",
+              "value": "0125419817737512437555182e"
+            },
+            {
+              "name": "Server",
+              "value": "ESA"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "access-control-allow-credentials",
+              "value": "true"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "X-Chat-Id, X-Trace-ID"
+            },
+            {
+              "name": "via",
+              "value": "ens-cache45.l2sg7[10962,0,DP], ens-cache24.l2hk12[10993,0,DP], ens-cache4.ph14[11029,0,DP], ens-cache4.ph14[11030,0]"
+            },
+            {
+              "name": "x-process-time",
+              "value": "11"
+            },
+            {
+              "name": "x-site-cache-status",
+              "value": "DYNAMIC"
+            },
+            {
+              "name": "x-trace-id",
+              "value": "19cfbd013d529235"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 4005,
+            "mimeType": "text/event-stream",
+            "compression": 2189,
+            "text": "ZGF0YTogeyJ0eXBlIjoiY2hhdDpjb21wbGV0aW9uIiwiZGF0YSI6eyJkZWx0YV9jb250ZW50IjoiVGhlIHVzZXIgaXMgc2VuZGluZyBhbm90aGVyIiwicGhhc2UiOiJ0aGlua2luZyJ9fQoKZGF0YTogeyJ0eXBlIjoiY2hhdDpjb21wbGV0aW9uIiwiZGF0YSI6eyJkZWx0YV9jb250ZW50IjoiIHRlc3QgbWVzc2FnZSBcInRlc3RfYmV0YSIsInBoYXNlIjoidGhpbmtpbmcifX0KCmRhdGE6IHsidHlwZSI6ImNoYXQ6Y29tcGxldGlvbiIsImRhdGEiOnsiZGVsdGFfY29udGVudCI6Il8wMDJcIi4gVGhpcyBhcHBlYXJzIiwicGhhc2UiOiJ0aGlua2luZyJ9fQoKZGF0YTogeyJ0eXBlIjoiY2hhdDpjb21wbGV0aW9uIiwiZGF0YSI6eyJkZWx0YV9jb250ZW50IjoiIHRvIGJlIGEgY29udGludWF0aW9uIG9mIiwicGhhc2UiOiJ0aGlua2luZyJ9fQoKZGF0YTogeyJ0eXBlIjoiY2hhdDpjb21wbGV0aW9uIiwiZGF0YSI6eyJkZWx0YV9jb250ZW50IjoiIHRoZWlyIHRlc3RpbmcuIEkgc2hvdWxkIiwicGhhc2UiOiJ0aGlua2luZyJ9fQoKZGF0YTogeyJ0eXBlIjoiY2hhdDpjb21wbGV0aW9uIiwiZGF0YSI6eyJkZWx0YV9jb250ZW50IjoiIGFja25vd2xlZGdlIHRoaXMgYW5kIGFzayBob3ciLCJwaGFzZSI6InRoaW5raW5nIn19CgpkYXRhOiB7InR5cGUiOiJjaGF0OmNvbXBsZXRpb24iLCJkYXRhIjp7ImRlbHRhX2NvbnRlbnQiOiIgSSBjYW4gaGVscCB0aGVtIHdpdGgiLCJwaGFzZSI6InRoaW5raW5nIn19CgpkYXRhOiB7InR5cGUiOiJjaGF0OmNvbXBsZXRpb24iLCJkYXRhIjp7ImRlbHRhX2NvbnRlbnQiOiIgYW4gYWN0dWFsIHRhc2suIiwicGhhc2UiOiJ0aGlua2luZyJ9fQoKZGF0YTogeyJ0eXBlIjoiY2hhdDpjb21wbGV0aW9uIiwiZGF0YSI6eyJkZWx0YV9jb250ZW50Ijoi5pS25Yiw5rWL6K+V5raI5oGvIFwidGVzdCIsInBoYXNlIjoiYW5zd2VyIn19CgpkYXRhOiB7InR5cGUiOiJjaGF0OmNvbXBsZXRpb24iLCJkYXRhIjp7ImRlbHRhX2NvbnRlbnQiOiJfYmV0YV8wMDJcIiDinJMiLCJwaGFzZSI6ImFuc3dlciJ9fQoKZGF0YTogeyJ0eXBlIjoiY2hhdDpjb21wbGV0aW9uIiwiZGF0YSI6eyJkZWx0YV9jb250ZW50IjoiXG5cbuezu+e7n+i/kOihjOato+W4uO+8gSIsInBoYXNlIjoiYW5zd2VyIn19CgpkYXRhOiB7InR5cGUiOiJjaGF0OmNvbXBsZXRpb24iLCJkYXRhIjp7ImRlbHRhX2NvbnRlbnQiOiLlpoLmnpzkvaDmnInku7vkvZXlrp7pmYXku7vliqHpnIDopoEiLCJwaGFzZSI6ImFuc3dlciJ9fQoKZGF0YTogeyJ0eXBlIjoiY2hhdDpjb21wbGV0aW9uIiwiZGF0YSI6eyJkZWx0YV9jb250ZW50Ijoi5biu5Yqp77yM6ZqP5pe25ZGK6K+J5oiRIiwicGhhc2UiOiJhbnN3ZXIifX0KCmRhdGE6IHsidHlwZSI6ImNoYXQ6Y29tcGxldGlvbiIsImRhdGEiOnsiZGVsdGFfY29udGVudCI6IuOAguaIkeWPr+S7peWNj+WKqeS9oOWujOaIkCIsInBoYXNlIjoiYW5zd2VyIn19CgpkYXRhOiB7InR5cGUiOiJjaGF0OmNvbXBsZXRpb24iLCJkYXRhIjp7ImRlbHRhX2NvbnRlbnQiOiLlkITnp43lt6XkvZzvvIzkvovlpoLvvJpcblxuIiwicGhhc2UiOiJhbnN3ZXIifX0KCmRhdGE6IHsidHlwZSI6ImNoYXQ6Y29tcGxldGlvbiIsImRhdGEiOnsiZGVsdGFfY29udGVudCI6Inwg57G75YirIHwgIiwicGhhc2UiOiJhbnN3ZXIifX0KCmRhdGE6IHsidHlwZSI6ImNoYXQ6Y29tcGxldGlvbiIsImRhdGEiOnsiZGVsdGFfY29udGVudCI6IuekuuS+i+S7u+WKoSB8XG58IiwicGhhc2UiOiJhbnN3ZXIifX0KCmRhdGE6IHsidHlwZSI6ImNoYXQ6Y29tcGxldGlvbiIsImRhdGEiOnsiZGVsdGFfY29udGVudCI6Ii0tLS0tLXwtLS0tLS0tLS0tfFxufCIsInBoYXNlIjoiYW5zd2VyIn19CgpkYXRhOiB7InR5cGUiOiJjaGF0OmNvbXBsZXRpb24iLCJkYXRhIjp7ImRlbHRhX2NvbnRlbnQiOiIg8J+SuyDlvIDlj5EgfCIsInBoYXNlIjoiYW5zd2VyIn19CgpkYXRhOiB7InR5cGUiOiJjaGF0OmNvbXBsZXRpb24iLCJkYXRhIjp7ImRlbHRhX2NvbnRlbnQiOiIg5p6E5bu6572R56uZ44CBIiwicGhhc2UiOiJhbnN3ZXIifX0KCmRhdGE6IHsidHlwZSI6ImNoYXQ6Y29tcGxldGlvbiIsImRhdGEiOnsiZGVsdGFfY29udGVudCI6Iue8luWGmSBBUEnjgIHosIPor5Xku6PnoIEiLCJwaGFzZSI6ImFuc3dlciJ9fQoKZGF0YTogeyJ0eXBlIjoiY2hhdDpjb21wbGV0aW9uIiwiZGF0YSI6eyJkZWx0YV9jb250ZW50IjoiIHxcbnwg8J+ThCDmlociLCJwaGFzZSI6ImFuc3dlciJ9fQoKZGF0YTogeyJ0eXBlIjoiY2hhdDpjb21wbGV0aW9uIiwiZGF0YSI6eyJkZWx0YV9jb250ZW50Ijoi5qGjIHwg55Sf5oiQ5oql5ZGKIiwicGhhc2UiOiJhbnN3ZXIifX0KCmRhdGE6IHsidHlwZSI6ImNoYXQ6Y29tcGxldGlvbiIsImRhdGEiOnsiZGVsdGFfY29udGVudCI6IuOAgeWIm+W7uua8lOekuuaWh+eov+OAgSIsInBoYXNlIjoiYW5zd2VyIn19CgpkYXRhOiB7InR5cGUiOiJjaGF0OmNvbXBsZXRpb24iLCJkYXRhIjp7ImRlbHRhX2NvbnRlbnQiOiLlpITnkIbooajmoLwgfFxufCAiLCJwaGFzZSI6ImFuc3dlciJ9fQoKZGF0YTogeyJ0eXBlIjoiY2hhdDpjb21wbGV0aW9uIiwiZGF0YSI6eyJkZWx0YV9jb250ZW50Ijoi8J+OqCDliJvkvZwgfCBBSSAiLCJwaGFzZSI6ImFuc3dlciJ9fQoKZGF0YTogeyJ0eXBlIjoiY2hhdDpjb21wbGV0aW9uIiwiZGF0YSI6eyJkZWx0YV9jb250ZW50Ijoi57uY5Zu+44CB6K+t6Z+z5ZCI5oiQIiwicGhhc2UiOiJhbnN3ZXIifX0KCmRhdGE6IHsidHlwZSI6ImNoYXQ6Y29tcGxldGlvbiIsImRhdGEiOnsiZGVsdGFfY29udGVudCI6IuOAgeinhumikeeUn+aIkCB8XG58IiwicGhhc2UiOiJhbnN3ZXIifX0KCmRhdGE6IHsidHlwZSI6ImNoYXQ6Y29tcGxldGlvbiIsImRhdGEiOnsiZGVsdGFfY29udGVudCI6IiDwn5SNIOeglOeptiB8ICIsInBoYXNlIjoiYW5zd2VyIn19CgpkYXRhOiB7InR5cGUiOiJjaGF0OmNvbXBsZXRpb24iLCJkYXRhIjp7ImRlbHRhX2NvbnRlbnQiOiLnvZHnu5zmkJzntKLjgIHmlbDmja7liIbmnpAiLCJwaGFzZSI6ImFuc3dlciJ9fQoKZGF0YTogeyJ0eXBlIjoiY2hhdDpjb21wbGV0aW9uIiwiZGF0YSI6eyJkZWx0YV9jb250ZW50Ijoi44CB5YaF5a655oC757uTIHxcblxu6K+36ZeuIiwicGhhc2UiOiJhbnN3ZXIifX0KCmRhdGE6IHsidHlwZSI6ImNoYXQ6Y29tcGxldGlvbiIsImRhdGEiOnsicGhhc2UiOiJvdGhlciIsInVzYWdlIjp7InByb21wdF90b2tlbnMiOjEzMDgzLCJjb21wbGV0aW9uX3Rva2VucyI6MTYxLCJ0b3RhbF90b2tlbnMiOjEzMjQ0LCJwcm9tcHRfdG9rZW5zX2RldGFpbHMiOnsiY2FjaGVkX3Rva2VucyI6MTI5Mjh9fX19CgpkYXRhOiB7InR5cGUiOiJjaGF0OmNvbXBsZXRpb24iLCJkYXRhIjp7ImRlbHRhX2NvbnRlbnQiOiLkvaDmg7PlgZrku4DkuYjvvJ8iLCJwaGFzZSI6ImFuc3dlciJ9fQoKZGF0YTogeyJ0eXBlIjoiY2hhdDpjb21wbGV0aW9uIiwiZGF0YSI6eyJwaGFzZSI6ImRvbmUiLCJkb25lIjp0cnVlLCJtZXRhZGF0YSI6eyJ2ZXJzaW9uX2luZm8iOnsiY3JlYXRlZF9hdCI6IjIwMjYtMDMtMTdUMTI6NDE6MDEuMTQyMjY4KzAwOjAwIiwibWVzc2FnZSI6IlN1Y2Nlc3NmdWxseSBjcmVhdGVkIFBvbGFyRlMgc25hcHNob3QiLCJtZXNzYWdlX2lkIjoiZDgzNmUwZDctMjdlNi00ZjMzLThkMmUtZjA5NzMzMjliYjkyIiwibWV0YWRhdGEiOnsibW9kaWZpZWRfZmlsZXMiOltdLCJtb2RpZmllZF9maWxlc19jb3VudCI6MCwibmV3X2ZpbGVzIjpbXSwibmV3X2ZpbGVzX2NvdW50IjowLCJzbmFwc2hvdF9hdmFpbGFibGUiOnRydWV9LCJyZXF1ZXN0X2lkIjoiNkQ4QjQ0NEYtODFFOC0zOTYxLUIxRDQtNUVGQ0M5MzEzOTA1Iiwic291cmNlIjoiLzA4YmEyODcwLTkwNzItNDEzNy05Njg2LWE5ZDYyZTI3ZmZmNi9jaGF0LTRhYjZlMWUxLTJmNGEtNDU5MC1iYWEyLWMyNDE4ZDIxMGEyYS9teS1wcm9qZWN0Iiwic3VjY2VzcyI6dHJ1ZSwidGFyZ2V0IjoiL2Q4MzZlMGQ3LTI3ZTYtNGYzMy04ZDJlLWYwOTczMzI5YmI5Mi8ifX19fQoK",
+            "encoding": "base64"
+          },
+          "redirectURL": "",
+          "headersSize": 634,
+          "bodySize": 1816,
+          "_transferSize": 2450,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "155.102.38.53",
+        "startedDateTime": "2026-03-17T12:40:43.527Z",
+        "time": 17809.465999998793,
+        "timings": {
+          "blocked": 1.690999997419771,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.527,
+          "wait": 11104.021000003222,
+          "receive": 6703.226999998151,
+          "_blocked_queueing": 1.0669999974197708,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      },
+      {
+        "_connectionId": "431205",
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "window.fetch",
+                "scriptId": "16",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/Cu64bUoQ.js",
+                "lineNumber": 0,
+                "columnNumber": 1655
+              },
+              {
+                "functionName": "",
+                "scriptId": "22",
+                "url": "https://sdk.rum.aliyuncs.com/v2/browser-sdk.js",
+                "lineNumber": 0,
+                "columnNumber": 63752
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "50",
+                "url": "https://o.alicdn.com/frontend-lib/common-lib/jquery.min.js",
+                "lineNumber": 0,
+                "columnNumber": 118453
+              },
+              {
+                "functionName": "Ci.window.fetch",
+                "scriptId": "25",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/AgMBD70M.js",
+                "lineNumber": 27,
+                "columnNumber": 3206
+              },
+              {
+                "functionName": "D",
+                "scriptId": "31",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DUeB7dgS.js",
+                "lineNumber": 0,
+                "columnNumber": 3388
+              },
+              {
+                "functionName": "Hr",
+                "scriptId": "74",
+                "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                "lineNumber": 996,
+                "columnNumber": 4945
+              }
+            ],
+            "parent": {
+              "description": "await",
+              "callFrames": [
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 993,
+                  "columnNumber": 54
+                },
+                {
+                  "functionName": "Gr",
+                  "scriptId": "74",
+                  "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                  "lineNumber": 992,
+                  "columnNumber": 22389
+                }
+              ],
+              "parent": {
+                "description": "await",
+                "callFrames": [
+                  {
+                    "functionName": "xr",
+                    "scriptId": "74",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 992,
+                    "columnNumber": 19797
+                  },
+                  {
+                    "functionName": "Vr",
+                    "scriptId": "74",
+                    "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                    "lineNumber": 999,
+                    "columnNumber": 4359
+                  }
+                ],
+                "parent": {
+                  "description": "await",
+                  "callFrames": [
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8810
+                    },
+                    {
+                      "functionName": "",
+                      "scriptId": "17",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/DFZQlWS9.js",
+                      "lineNumber": 0,
+                      "columnNumber": 8796
+                    },
+                    {
+                      "functionName": "ds",
+                      "scriptId": "74",
+                      "url": "https://z-cdn.chatglm.cn/z-ai/frontend/prod-fe-1.0.262/_app/immutable/chunks/COvEVlW5.js",
+                      "lineNumber": 24,
+                      "columnNumber": 692
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "connection": "443",
+        "request": {
+          "method": "POST",
+          "url": "https://chat.z.ai/api/v2/chat/completions?timestamp=1773751272851&requestId=17555ec7-6513-471e-9783-3efce16fb7f6&user_id=08ba2870-9072-4137-9686-a9d62e27fff6&version=0.0.1&platform=web&token=eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA4YmEyODcwLTkwNzItNDEzNy05Njg2LWE5ZDYyZTI3ZmZmNiIsImVtYWlsIjoiZWR3aW5zZW5hcmlsbG9zNTk5QGdtYWlsLmNvbSJ9.lyJYn0OIYI3LMoi22lU4GCd0pfdkI5dBFnsoUB5K3j5QDYkL3tsZIwgIFPlSdQyudI0aFyVIQ92lpSqF6sIzZw&user_agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36&language=en-US&languages=en-US%2Cen&timezone=Australia%2FEucla&cookie_enabled=true&screen_width=1366&screen_height=768&screen_resolution=1366x768&viewport_height=641&viewport_width=569&viewport_size=569x641&color_depth=32&pixel_ratio=1&current_url=https%3A%2F%2Fchat.z.ai%2Fc%2F4ab6e1e1-2f4a-4590-baa2-c2418d210a2a&pathname=%2Fc%2F4ab6e1e1-2f4a-4590-baa2-c2418d210a2a&search=&hash=&host=chat.z.ai&hostname=chat.z.ai&protocol=https%3A&referrer=https%3A%2F%2Faccounts.google.com%2F&title=Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7&timezone_offset=-525&local_time=2026-03-17T12%3A41%3A12.852Z&utc_time=Tue%2C+17+Mar+2026+12%3A41%3A12+GMT&is_mobile=false&is_touch=false&max_touch_points=0&browser_name=Chrome&os_name=Windows&signature_timestamp=1773751272851",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, br, zstd"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "en-US"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Length",
+              "value": "881"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            },
+            {
+              "name": "Host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "Origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "Referer",
+              "value": "https://chat.z.ai/c/4ab6e1e1-2f4a-4590-baa2-c2418d210a2a"
+            },
+            {
+              "name": "Sec-Fetch-Dest",
+              "value": "empty"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "Sec-Fetch-Site",
+              "value": "same-origin"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+            },
+            {
+              "name": "X-FE-Version",
+              "value": "prod-fe-1.0.262"
+            },
+            {
+              "name": "X-Signature",
+              "value": "cbb401d833aae5a2270abff97fd5054d0d8541d46dbebb2c92dd9882dd66e217"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Chromium\";v=\"146\", \"Not-A.Brand\";v=\"24\", \"Google Chrome\";v=\"146\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            }
+          ],
+          "queryString": [
+            {
+              "name": "timestamp",
+              "value": "1773751272851"
+            },
+            {
+              "name": "requestId",
+              "value": "17555ec7-6513-471e-9783-3efce16fb7f6"
+            },
+            {
+              "name": "user_id",
+              "value": "08ba2870-9072-4137-9686-a9d62e27fff6"
+            },
+            {
+              "name": "version",
+              "value": "0.0.1"
+            },
+            {
+              "name": "platform",
+              "value": "web"
+            },
+            {
+              "name": "token",
+              "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjA4YmEyODcwLTkwNzItNDEzNy05Njg2LWE5ZDYyZTI3ZmZmNiIsImVtYWlsIjoiZWR3aW5zZW5hcmlsbG9zNTk5QGdtYWlsLmNvbSJ9.lyJYn0OIYI3LMoi22lU4GCd0pfdkI5dBFnsoUB5K3j5QDYkL3tsZIwgIFPlSdQyudI0aFyVIQ92lpSqF6sIzZw"
+            },
+            {
+              "name": "user_agent",
+              "value": "Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F146.0.0.0+Safari%2F537.36"
+            },
+            {
+              "name": "language",
+              "value": "en-US"
+            },
+            {
+              "name": "languages",
+              "value": "en-US%2Cen"
+            },
+            {
+              "name": "timezone",
+              "value": "Australia%2FEucla"
+            },
+            {
+              "name": "cookie_enabled",
+              "value": "true"
+            },
+            {
+              "name": "screen_width",
+              "value": "1366"
+            },
+            {
+              "name": "screen_height",
+              "value": "768"
+            },
+            {
+              "name": "screen_resolution",
+              "value": "1366x768"
+            },
+            {
+              "name": "viewport_height",
+              "value": "641"
+            },
+            {
+              "name": "viewport_width",
+              "value": "569"
+            },
+            {
+              "name": "viewport_size",
+              "value": "569x641"
+            },
+            {
+              "name": "color_depth",
+              "value": "32"
+            },
+            {
+              "name": "pixel_ratio",
+              "value": "1"
+            },
+            {
+              "name": "current_url",
+              "value": "https%3A%2F%2Fchat.z.ai%2Fc%2F4ab6e1e1-2f4a-4590-baa2-c2418d210a2a"
+            },
+            {
+              "name": "pathname",
+              "value": "%2Fc%2F4ab6e1e1-2f4a-4590-baa2-c2418d210a2a"
+            },
+            {
+              "name": "search",
+              "value": ""
+            },
+            {
+              "name": "hash",
+              "value": ""
+            },
+            {
+              "name": "host",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "hostname",
+              "value": "chat.z.ai"
+            },
+            {
+              "name": "protocol",
+              "value": "https%3A"
+            },
+            {
+              "name": "referrer",
+              "value": "https%3A%2F%2Faccounts.google.com%2F"
+            },
+            {
+              "name": "title",
+              "value": "Z.ai+-+Free+AI+Chatbot+%26+Agent+powered+by+GLM-5+%26+GLM-4.7"
+            },
+            {
+              "name": "timezone_offset",
+              "value": "-525"
+            },
+            {
+              "name": "local_time",
+              "value": "2026-03-17T12%3A41%3A12.852Z"
+            },
+            {
+              "name": "utc_time",
+              "value": "Tue%2C+17+Mar+2026+12%3A41%3A12+GMT"
+            },
+            {
+              "name": "is_mobile",
+              "value": "false"
+            },
+            {
+              "name": "is_touch",
+              "value": "false"
+            },
+            {
+              "name": "max_touch_points",
+              "value": "0"
+            },
+            {
+              "name": "browser_name",
+              "value": "Chrome"
+            },
+            {
+              "name": "os_name",
+              "value": "Windows"
+            },
+            {
+              "name": "signature_timestamp",
+              "value": "1773751272851"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 5332,
+          "bodySize": 881,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"stream\":true,\"model\":\"glm-5\",\"messages\":[{\"role\":\"user\",\"content\":\"test_gamma_003\"}],\"signature_prompt\":\"test_gamma_003\",\"params\":{},\"extra\":{},\"features\":{\"image_generation\":false,\"web_search\":false,\"auto_web_search\":false,\"preview_mode\":true,\"flags\":[\"general_agent\"],\"enable_thinking\":true},\"variables\":{\"{{USER_NAME}}\":\"Edwin Senarillos\",\"{{USER_LOCATION}}\":\"Unknown\",\"{{CURRENT_DATETIME}}\":\"2026-03-17 21:26:12\",\"{{CURRENT_DATE}}\":\"2026-03-17\",\"{{CURRENT_TIME}}\":\"21:26:12\",\"{{CURRENT_WEEKDAY}}\":\"Tuesday\",\"{{CURRENT_TIMEZONE}}\":\"Australia/Eucla\",\"{{USER_LANGUAGE}}\":\"en-US\"},\"chat_id\":\"4ab6e1e1-2f4a-4590-baa2-c2418d210a2a\",\"id\":\"eaed0db7-26e0-4355-a191-5f8c951ea5c9\",\"current_user_message_id\":\"af24132c-435d-4d80-a9e3-32afedb35c52\",\"current_user_message_parent_id\":\"d836e0d7-27e6-4f33-8d2e-f0973329bb92\",\"background_tasks\":{\"title_generation\":true,\"tags_generation\":true}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "br"
+            },
+            {
+              "name": "Content-Type",
+              "value": "text/event-stream; charset=utf-8"
+            },
+            {
+              "name": "Date",
+              "value": "Tue, 17 Mar 2026 12:41:27 GMT"
+            },
+            {
+              "name": "EagleId",
+              "value": "012541ac17737512731134149e"
+            },
+            {
+              "name": "Server",
+              "value": "ESA"
+            },
+            {
+              "name": "Timing-Allow-Origin",
+              "value": "*"
+            },
+            {
+              "name": "Transfer-Encoding",
+              "value": "chunked"
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding"
+            },
+            {
+              "name": "Vary",
+              "value": "Origin"
+            },
+            {
+              "name": "access-control-allow-credentials",
+              "value": "true"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "https://chat.z.ai"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "X-Chat-Id, X-Trace-ID"
+            },
+            {
+              "name": "via",
+              "value": "ens-cache42.l2sg7[14364,0,DP], ens-cache10.l2hk12[14395,0,DP], ens-cache24.ph14[14433,0,DP], ens-cache24.ph14[14434,0]"
+            },
+            {
+              "name": "x-process-time",
+              "value": "14"
+            },
+            {
+              "name": "x-site-cache-status",
+              "value": "DYNAMIC"
+            },
+            {
+              "name": "x-trace-id",
+              "value": "19cfbd0866ffde81"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 2799,
+            "mimeType": "text/event-stream",
+            "compression": 1470,
+            "text": "data: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"用户发送了第三个测试\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"消息 \\\"test_gamma_\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"003\\\"。这似乎是一个\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"测试会话的序列\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"。我应该简洁地确认\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"收到消息，并再次\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"询问用户是否有实际任务\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"需要帮助。\",\"phase\":\"thinking\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"收到测试消息 \\\"test\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_gamma_003\\\"\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" ✓\\n\\n测试序列已\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"确认：\\n- test_alpha\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"_001 ✓\\n-\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\" test_beta_002 ✓\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"  \\n- test_gamma_\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"003 ✓\\n\\n系统\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"运行正常。如果你已经\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"完成测试，欢迎提出\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"实际需求，我随时\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"other\",\"usage\":{\"prompt_tokens\":13211,\"completion_tokens\":98,\"total_tokens\":13309,\"prompt_tokens_details\":{\"cached_tokens\":13056}}}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"delta_content\":\"待命！\",\"phase\":\"answer\"}}\n\ndata: {\"type\":\"chat:completion\",\"data\":{\"phase\":\"done\",\"done\":true,\"metadata\":{\"version_info\":{\"created_at\":\"2026-03-17T12:41:30.947717+00:00\",\"message\":\"Successfully created PolarFS snapshot\",\"message_id\":\"eaed0db7-26e0-4355-a191-5f8c951ea5c9\",\"metadata\":{\"modified_files\":[],\"modified_files_count\":0,\"new_files\":[],\"new_files_count\":0,\"snapshot_available\":true},\"request_id\":\"06914111-72A7-32EE-88EC-BB07E9E30A01\",\"source\":\"/08ba2870-9072-4137-9686-a9d62e27fff6/chat-4ab6e1e1-2f4a-4590-baa2-c2418d210a2a/my-project\",\"success\":true,\"target\":\"/eaed0db7-26e0-4355-a191-5f8c951ea5c9/\"}}}}\n\n"
+          },
+          "redirectURL": "",
+          "headersSize": 636,
+          "bodySize": 1329,
+          "_transferSize": 1965,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "155.102.38.53",
+        "startedDateTime": "2026-03-17T12:41:12.871Z",
+        "time": 18147.766000001866,
+        "timings": {
+          "blocked": 1.6909999987585471,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0.30599999999999994,
+          "wait": 14500.063000000133,
+          "receive": 3645.706000002974,
+          "_blocked_queueing": 0.941999998758547,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        }
+      }
+    ]
+  }
+}
